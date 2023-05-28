@@ -42,7 +42,7 @@ Qing Ye, Jordan Krechmer, Joshua Shutter, Victoria Barber, **Yaowei Li**, Erik H
 
 Yan Zheng, Xi Cheng, Keren Liao, **Yaowei Li**, Yong Jie Li, Ru-Jin Huang, Weiwei Hu, Ying Liu, Tong Zhu, Shiyi Chen, Limin Zeng, Douglas R. Worsnop, and Qi Chen. (2020) "Characterization of anthropogenic organic aerosols by TOF-ACSM with the new capture vaporizer." *Atmospheric Measurement Techniques*. \[[pdf](https://amt.copernicus.org/articles/13/2457/2020/)\]
 
-Ben Liu, Cheng Wu, Nan Ma, Qi Chen, **Yaowei Li**, Jianhuai Ye, Scot T. Martin, and Yong Jie Li. (2020) "Vertical profiling of fine particulate matter and black carbon by using unmanned aerial vehicle in Macau, China." *Science of the Total Environment*. \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0048969719361054)\]
+Ben Liu, Cheng Wu, Nan Ma, Qi Chen, **Yaowei Li**, Jianhuai Ye, Scot Martin, and Yong Jie Li. (2020) "Vertical profiling of fine particulate matter and black carbon by using unmanned aerial vehicle in Macau, China." *Science of the Total Environment*. \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0048969719361054)\]
 
 ^ denotes equal contribution
 <br/>
