@@ -32,7 +32,7 @@ Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, E
 
 Yan Zheng, Ruqian Miao, Qi Zhang, **Yaowei Li**, Xi Cheng, Keren Liao, Theodore Koenig, Yanli Ge, Lizi Tang, Dongjie Shang, Min Hu, Shiyi Chen, Qi Chen. (2023) "Secondary formation of submicron and supermicron organic and inorganic aerosols in a highly polluted urban area." *Journal of Geophysical Research: Atmospheres*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037865)\]
 
-Qing Ye, Matthew Goss, Jordan Krechmer, Francesca Majluf, Alexander Zaytsev, **Yaowei Li**, Joseph Roscioli, Manjula Canagaratna, Frank Keutsch, Colette Heald, and Jesse Kroll. (2022) "Product distribution, kinetics, and aerosol formation from the OH oxidation of dimethyl sulfide under different RO 2 regimes." *Atmospheric Chemistry and Physics*. [[pdf](https://acp.copernicus.org/articles/22/16003/2022/acp-22-16003-2022-discussion.html)\]
+Qing Ye, Matthew Goss, Jordan Krechmer, Francesca Majluf, Alexander Zaytsev, **Yaowei Li**, Joseph Roscioli, Manjula Canagaratna, Frank Keutsch, Colette Heald, and Jesse Kroll. (2022) "Product distribution, kinetics, and aerosol formation from the OH oxidation of dimethyl sulfide under different RO2 regimes." *Atmospheric Chemistry and Physics*. [[pdf](https://acp.copernicus.org/articles/22/16003/2022/acp-22-16003-2022-discussion.html)\]
 
 **Yaowei Li**, John Dykema, Terry Deshler, and Frank Keutsch. (2021) "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427)\]
 
