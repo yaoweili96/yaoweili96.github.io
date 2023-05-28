@@ -21,15 +21,9 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4840/)\]
+Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. "Indoor Air Quality Implications of Germicidal 222 nm Light". *(submitted)* \[[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/646b8610b3dd6a65308e8a6a)\]
 
-Haitong Zhe Sun et al. Antagonism between ambient ozone increasing and urbanisation-oriented population migration on Chinese cardiopulmonary mortality. *(submitted)* 
-
-Paul Picciano, Sebastian Eastham, **Minghao Qiu**, Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4591/)\]
-
-**Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *(submitted)* \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
-
-**Minghao Qiu**, Jessica Li, Jeff Wen, Marissa Childs, Marshall Burke. Impacts of climate change on wildfire smoke exposure over the continental US at the census tract level. *(in preparation)*  
+**Yaowei Li^**, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "Stratospheric aerosol evolution after 2021 La Soufrière eruptions: insights from aircraft measurements and aerosol-chemistry-climate model simulations" *(in preparation)*  
 
 
 **<ins>Peer-reviewed</ins>**
