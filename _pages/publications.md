@@ -23,22 +23,22 @@ author_profile: true
 
 Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. "Indoor Air Quality Implications of Germicidal 222 nm Light". *(submitted)* \[[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/646b8610b3dd6a65308e8a6a)\]
 
-**Yaowei Li^**, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "Stratospheric aerosol evolution after 2021 La Soufrière eruptions: insights from aircraft measurements and aerosol-chemistry-climate model simulations" *(in preparation)*  
+**Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "Stratospheric aerosol evolution after 2021 La Soufrière eruptions: insights from aircraft measurements and aerosol-chemistry-climate model simulations" *(in preparation)*  
 
 
 **<ins>Peer-reviewed</ins>**
 
-**Yaowei Li^**, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinor Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023). "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*
+**Yaowei Li**^, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinor Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023). "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*
 
 Yan Zheng, Ruqian Miao, Qi Zhang, **Yaowei Li**, Xi Cheng, Keren Liao, Theodore Koenig, Yanli Ge, Lizi Tang, Dongjie Shang, Min Hu, Shiyi Chen, Qi Chen. (2023) "Secondary formation of submicron and supermicron organic and inorganic aerosols in a highly polluted urban area." *Journal of Geophysical Research: Atmospheres*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037865)\]
 
 Qing Ye, Matthew Goss, Jordan Krechmer, Francesca Majluf, Alexander Zaytsev, **Yaowei Li**, Joseph Roscioli, Manjula Canagaratna, Frank Keutsch, Colette Heald, and Jesse Kroll. (2022) "Product distribution, kinetics, and aerosol formation from the OH oxidation of dimethyl sulfide under different RO 2 regimes." *Atmospheric Chemistry and Physics*. [[pdf](https://acp.copernicus.org/articles/22/16003/2022/acp-22-16003-2022-discussion.html)\]
 
-**Yaowei Li**, John Dykema, Terry Deshler, and Frank Keutsch. "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes." (2021) *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427)\]
+**Yaowei Li**, John Dykema, Terry Deshler, and Frank Keutsch. (2021) "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427)\]
 
-Qing Ye, Jordan Krechmer, Joshua Shutter, Victoria Barber, **Yaowei Li**, Erik Helstrom, Lesly Franco, Joshua L. Cox, Amy Hrdina, Matthew Goss, Nadia Tahsini, Manjula Canagaratna, Frank Keutsch, and Jesse Kroll. (2021) "Real-Time Laboratory Measurements of VOC Emissions, Removal Rates, and Byproduct Formation from Consumer-Grade Oxidation-Based Air Cleaners." *Environmental Science & Technology Letters*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00773)\]
+Qing Ye, Jordan Krechmer, Joshua Shutter, Victoria Barber, **Yaowei Li**, Erik Helstrom, Lesly Franco, Joshua Cox, Amy Hrdina, Matthew Goss, Nadia Tahsini, Manjula Canagaratna, Frank Keutsch, and Jesse Kroll. (2021) "Real-Time Laboratory Measurements of VOC Emissions, Removal Rates, and Byproduct Formation from Consumer-Grade Oxidation-Based Air Cleaners." *Environmental Science & Technology Letters*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00773)\]
 
-**Yaowei Li**, Ben Liu, Jianhuai Ye, Tianjiao Jia, Reza Bashiri Khuzestani, Jia Yin Sun, Xi Cheng, Yan Zheng, Xin Li, Cheng Wu, Jinyuan Xin, Zhihong Wu, Matheus Akira Tomoto, Karena A. McKinney, Scot T. Martin, Yong Jie Li, and Qi Chen. "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity." (2021) *ACS Earth and Space Chemistry*. \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271)\]
+**Yaowei Li**, Ben Liu, Jianhuai Ye, Tianjiao Jia, Reza Bashiri Khuzestani, Jia Yin Sun, Xi Cheng, Yan Zheng, Xin Li, Cheng Wu, Jinyuan Xin, Zhihong Wu, Matheus Akira Tomoto, Karena McKinney, Scot Martin, Yong Jie Li, and Qi Chen. (2021) "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity." *ACS Earth and Space Chemistry*. \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271)\]
 
 Yan Zheng, Xi Cheng, Keren Liao, **Yaowei Li**, Yong Jie Li, Ru-Jin Huang, Weiwei Hu, Ying Liu, Tong Zhu, Shiyi Chen, Limin Zeng, Douglas R. Worsnop, and Qi Chen. (2020) "Characterization of anthropogenic organic aerosols by TOF-ACSM with the new capture vaporizer." *Atmospheric Measurement Techniques*. \[[pdf](https://amt.copernicus.org/articles/13/2457/2020/)\]
 
