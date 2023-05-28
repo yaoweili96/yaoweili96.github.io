@@ -8,11 +8,11 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-My research studies how environmental risks evolve under a changing climate, and how to design effective policies to mitigate their impacts on humans and societies. Specifically, I study the interplay between **air pollution** and **climate change**, two critical environmental challenges for humanity in the coming decades. These questions are globally relevant, with countries experiencing high levels of lethal air pollution and increasing climate extremes such as drought and fire, at the same time as they also plan for decadal-scale energy transitions. To shed light on pollution-climate interactions and their impacts, my research combines empirical data, atmospheric chemistry modeling, statistical models, remote sensing, and energy system analysis. 
+My research studies anthropogenic influence on the aerosol-chemistry-climate interactions, focusing on the impacts of changing human emissions and increasing wildfires on aerosols in a changing climate, and to understand their feedback on the aerosol-chemistry-climate interactions. Specifically, I study the microphysical and chemical properties of aerosols in the upper troposphere and lower stratosphere (UTLS), as well as their climate and chemical impacts. To shed light on the variability of UTLS aerosols and their impacts, my research combines field measurements, laboratory studies, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
 
 <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/>
 
-**1. Impacts of climate change on air pollution and human health**
+**1. In situ measurements of aerosols in the UTLS**
 
 Climate change can pose a substantial threat to air quality and human health. For example, extreme drought and heat waves can increase the risk of wildfire and dust storms, leading to excessive levels of health-damaging pollutants. However, most existing climate/health studies focus primarily on the impacts of climate change ignored the substantial channel through climate-induced air pollution changes. Quantitative evidence of how climate change influences air pollution and human health is highly incomplete. 
 
@@ -21,7 +21,7 @@ Impacts of historical and future droughts on electricity system, carbon emission
 Impacts of climate change on wildfiresmoke exposure over the continental US.*
 <br/><br/><br/>
 
-**2. Evaluating effects of energy and climate policies on air quality and health**
+**2. Offline Chemical imaging of UTLS aerosols samples**
 
 <img src="/images/fig_china_expost.png" alt="China energy policy" align="right" class="inline" width=295 height=300/>
 
@@ -35,7 +35,7 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 
 <br/><br/><br/><br/><br/><br/>
 
-**3. Designing equitable strategies for air quality management and energy transition**
+**3. Composition dependence of stratospheric aerosol radiative forcing**
 
 Exposure to air pollution and the associated health burden has been shown to be unequally distributed across populations. My research demonstrates that designing policies to address disparities in exposure to air pollution across population groups, is not straightforward. Focusing on the effects of wind power development on air quality in the US, I showed that developing wind power does not significantly reduce the existing gap of pollution exposure between different population groups, despite its substantial overall benefits on air quality and human health.
 <br/><br/><br/>
