@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research (<span style="color:red">some *This page is under construction!* text</span>)"
+title: "Research (This page is Under Construction!!!)"
 permalink: /research/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-My research studies the impacts of changing human emissions and increasing wildfires on atmospheric aerosols in a changing climate, and to understand their feedback on aerosol-chemistry-climate interactions. Specifically, I study the microphysical and chemical properties of aerosols in the upper troposphere and lower stratosphere (UTLS), as well as their climate and chemical impacts. To shed light on the variability of UTLS aerosols and their impacts, my research combines field measurements, laboratory studies, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
+My research studies the impacts of changing human emissions and increasing wildfires on atmospheric aerosols in a changing climate, and to understand their feedback on aerosol-chemistry-climate interactions. Specifically, I study the climate and chamical impacts of aerosols in the upper troposphere and lower stratosphere (UTLS). UTLS Aerosols modulate global radiative balance by scattering and absorbing radiation, as well as affecting the nucleation of ice clouds. Additionally, they affect the protective ozone layer by modulating heterogeneous reaction rates of halogen species on the particle surface. To shed light on the variability of UTLS aerosols and their impacts, my research combines field measurements, laboratory studies, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
 
 <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/>
 
