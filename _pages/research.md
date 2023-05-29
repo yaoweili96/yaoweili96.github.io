@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research (This page is Under Construction!)"
+title: "Research (<span style="color:red">some *This page is under construction!* text</span>)"
 permalink: /research/
 author_profile: true
 ---
