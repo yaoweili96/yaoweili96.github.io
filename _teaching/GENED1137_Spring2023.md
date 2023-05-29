@@ -8,4 +8,4 @@ date: 2023-03-01
 location: "Cambridge, MA"
 ---
 
-I was one of the Teaching Follows (TF) working with [Prof. Michael McElroy](https://scholar.harvard.edu/mbm) on this GENED course. This course provide students with an understanding of relevant physical, technical and social factors of human induced climate change
+I was one of the Teaching Follows (TF) working with [Prof. Michael McElroy](https://scholar.harvard.edu/mbm) on this course. This course provide students with an understanding of relevant physical, technical and social factors of human induced climate change
