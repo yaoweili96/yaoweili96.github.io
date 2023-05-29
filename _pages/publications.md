@@ -26,7 +26,7 @@ Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, E
 **Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "Stratospheric aerosol evolution after 2021 La Soufrière eruptions: insights from aircraft measurements and aerosol-chemistry-climate model simulations" *(in preparation)*  
 
 
-**<ins>Peer-reviewed</ins> (Citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+**<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
 8\. **Yaowei Li**^, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinor Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023). "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*
 
