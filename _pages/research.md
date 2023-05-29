@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research (This page is Under Construction!)"
 permalink: /research/
 author_profile: true
 ---
@@ -8,11 +8,11 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-My research studies anthropogenic influence on the aerosol-chemistry-climate interactions, focusing on the impacts of changing human emissions and increasing wildfires on aerosols in a changing climate, and to understand their feedback on the aerosol-chemistry-climate interactions. Specifically, I study the microphysical and chemical properties of aerosols in the upper troposphere and lower stratosphere (UTLS), as well as their climate and chemical impacts. To shed light on the variability of UTLS aerosols and their impacts, my research combines field measurements, laboratory studies, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
+My research studies the impacts of changing human emissions and increasing wildfires on atmospheric aerosols in a changing climate, and to understand their feedback on aerosol-chemistry-climate interactions. Specifically, I study the microphysical and chemical properties of aerosols in the upper troposphere and lower stratosphere (UTLS), as well as their climate and chemical impacts. To shed light on the variability of UTLS aerosols and their impacts, my research combines field measurements, laboratory studies, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
 
 <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/>
 
-**1. In situ measurements of aerosols in the UTLS**
+**1. *In situ* characterization of aerosols in the UTLS**
 
 Climate change can pose a substantial threat to air quality and human health. For example, extreme drought and heat waves can increase the risk of wildfire and dust storms, leading to excessive levels of health-damaging pollutants. However, most existing climate/health studies focus primarily on the impacts of climate change ignored the substantial channel through climate-induced air pollution changes. Quantitative evidence of how climate change influences air pollution and human health is highly incomplete. 
 
