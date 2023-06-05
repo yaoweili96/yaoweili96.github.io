@@ -29,11 +29,11 @@ Impacts of climate change on wildfiresmoke exposure over the continental US.*
 <br/><br/><br/> -->
 
 **2. Offline chemical imaging of UTLS aerosol samples**\
-(In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen (Jay) Cheng at EMSL)
+(In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen Cheng at EMSL)
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=350 height=350/>
 
-UTLS aerosols samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Offline analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
+UTLS aerosols samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Preliminary analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
 
 <br/><br/>
 
@@ -52,11 +52,17 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 **3. Composition dependence of stratospheric aerosol radiative forcing**\
 (In collaboration with Terry Deshler at CU Boulder)
 
+<img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=350 height=350/>
+
 <!-- Exposure to air pollution and the associated health burden has been shown to be unequally distributed across populations. My research demonstrates that designing policies to address disparities in exposure to air pollution across population groups, is not straightforward. Focusing on the effects of wind power development on air quality in the US, I showed that developing wind power does not significantly reduce the existing gap of pollution exposure between different population groups, despite its substantial overall benefits on air quality and human health.
 <br/><br/><br/> -->
 
 **4. Optical properties of organic aerosols**\
 (In collaboration with Pengfei Liu Group at Georgia Tech)
+
+<img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=350 height=350/>
+
+Accurate aerosol refractive index measurements are critical for modeling aerosol-radiation interaction, yet they are limited for ambient organic aerosols, leading to large uncertainties in estimating aerosol radiative effects. I developed a semiempirical model that predicts the real refractive index n of organic aerosol material from its widely measured oxygen-to-carbon (O:C) and hydrogen-to-carbon (H:C) elemental ratios. The model was based on the theoretical framework of Lorenz-Lorentz equation and trained with n-values at 589 nm (n_589nm) of 160 pure compounds. The predictions can be expanded to predict n-values in a wide spectrum between 300 and 1200 nm. The model was validated with newly measured and literature datasets of n-values for laboratory secondary organic aerosol (SOA) materials. Uncertainties of n_589nm predictions for all SOA samples are within ±5%. The model suggests that n_589nm-values of organic aerosols may vary within a relatively small range for typical O:C and H:C values observed in the atmosphere. 
 
 <!-- <img src="/images/fig_HE.png" alt="High-emitter identification" align="right" class="inline" width=400 height=240/>
 
