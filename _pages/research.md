@@ -14,7 +14,7 @@ My research studies the impacts of changing human emissions and increasing wildf
 
 **1. *In situ* characterization and sampling of aerosols in the UTLS**
 
-<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=400 height=240/>
+<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=400 height=400/>
 
 During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.gov/projects/sabre/) aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UTLS aerosol concentration and size distribution ([DPOPS instrument](https://airbornescience.nasa.gov/instrument/DPOPS)), and 2) collect UTLS aerosol samples for offline chemical composition and morphology analysis (high-altitude aircraft MOUDI system). My work yielded a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UTLS aerosols and perturbations from volcanic and wildfire injections. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone. I also evaluated the radiative impacts of high-altitude wildfire smoke measured in the UT. 
 
