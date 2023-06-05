@@ -16,5 +16,5 @@ My current research interest is in chemistry-climate interactions focusing on cl
 
 Prior to Harvard, I received a B.S. in Environmental Sciences and a B.A. in Economics from [Peking University](https://english.pku.edu.cn/) (Beijing, China) in 2018. My undergraduate research was advised by [Prof. Qi Chen](https://scholar.google.com/citations?user=QgN0jXcAAAAJ&hl=en) focusing on: (1) chemical characterization of PM1 and PM2.5 in Beijing using aerosol mass spectrometers, (2) development and application of drone-based VOCs sampling system.
 
-I an a fan of hiking, volleyball, skiing, and badminton. Cat dad of a British Shorthair (Luna).
+I am a fan of hiking, volleyball, skiing, and badminton. Cat dad of a British Shorthair (Luna).
 
