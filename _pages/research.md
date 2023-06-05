@@ -12,11 +12,11 @@ My research studies the impacts of changing human emissions and increasing wildf
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
-**1. *In situ* characterization of aerosols in the UTLS**
+**1. *In situ* characterization and sampling of aerosols in the UTLS**
 
-<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=320 height=100/>
+<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=400 height=240/>
 
-During the NASA DCOTSS and NOAA SABRE aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UT/S aerosol concentration and size distribution, and 2) collect UT/S aerosol samples for offline chemical composition and morphology analysis. My work yielded a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UT/S aerosols and perturbations from volcanic and wildfire injections. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone. I also evaluated the radiative impacts of high-altitude wildfire smoke measured in the UT/S. Finally, my analysis of UT/S aerosol samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
+During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.gov/projects/sabre/) aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UTLS aerosol concentration and size distribution ([DPOPS instrument](https://airbornescience.nasa.gov/instrument/DPOPS)), and 2) collect UTLS aerosol samples for offline chemical composition and morphology analysis (high-altitude aircraft MOUDI system). My work yielded a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UTLS aerosols and perturbations from volcanic and wildfire injections. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone. I also evaluated the radiative impacts of high-altitude wildfire smoke measured in the UT. 
 
 <!-- Climate change can pose a substantial threat to air quality and human health. For example, extreme drought and heat waves can increase the risk of wildfire and dust storms, leading to excessive levels of health-damaging pollutants. However, most existing climate/health studies focus primarily on the impacts of climate change ignored the substantial channel through climate-induced air pollution changes. Quantitative evidence of how climate change influences air pollution and human health is highly incomplete. 
 
@@ -25,7 +25,7 @@ Impacts of historical and future droughts on electricity system, carbon emission
 Impacts of climate change on wildfiresmoke exposure over the continental US.*
 <br/><br/><br/> -->
 
-**2. Offline Chemical imaging of UTLS aerosols samples**
+**2. Offline chemical imaging of UTLS aerosols samples**
 
 <!-- <img src="/images/fig_china_expost.png" alt="China energy policy" align="right" class="inline" width=295 height=300/>
 
