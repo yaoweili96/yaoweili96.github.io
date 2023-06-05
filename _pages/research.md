@@ -54,6 +54,8 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 
 <img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=350 height=350/>
 
+While it is generally assumed that stratospheric aerosol is dominated by pure sulfuric acid plus water aerosols, recent in situ measurements and modeling studies suggest that organic matter makes up a significant fraction of lower stratospheric aerosol. The implications of this organic component are uncertain but may require significant revision of our understanding of the stratosphere's climate influence. I investigated the effects of the refractive index of organics and their mixing state with sulfate on shortwave radiative forcing (RF) of stratospheric aerosols. Using long-term balloon-borne aerosol measurement records and radiative transfer calculations, I found that organics may have significant impacts (up to 100% change) on stratospheric aerosol shortwave RF during periods of minimal-moderate volcanic activities. Currently, however, there is very little data on the mixing state and refractive index of organic-containing stratospheric aerosols.
+
 <br/><br/>
 
 <!-- Exposure to air pollution and the associated health burden has been shown to be unequally distributed across populations. My research demonstrates that designing policies to address disparities in exposure to air pollution across population groups, is not straightforward. Focusing on the effects of wind power development on air quality in the US, I showed that developing wind power does not significantly reduce the existing gap of pollution exposure between different population groups, despite its substantial overall benefits on air quality and human health.
