@@ -31,8 +31,7 @@ Impacts of climate change on wildfiresmoke exposure over the continental US.*
 **2. Offline chemical imaging of UTLS aerosols samples**\
 (In collaboration with Alex Laskin Group at Puerdue Univerist; Swarup China and Zezhen (Jay) Cheng at EMSL)
 
-<img src="/images/fig_china_expost.png" alt="China energy policy" align="right" class="inline" width=295 height=300/>
-
+<img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=400 height=400/>
 
 
 <br/><br/><br/>
