@@ -19,8 +19,7 @@ My research studies the impacts of changing human emissions and increasing wildf
 
 During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.gov/projects/sabre/) aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UTLS aerosol concentration and size distribution ([DPOPS instrument](https://airbornescience.nasa.gov/instrument/DPOPS)), and 2) collect UTLS aerosol samples for offline chemical composition and morphology analysis (high-altitude aircraft MOUDI system). My work yielded a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UTLS aerosols and perturbations from volcanic and wildfire injections. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone. I also evaluated the radiative impacts of high-altitude wildfire smoke measured in the UT. Data from DCOTSS mission are publically available at [NASA ASDC archive](https://asdc.larc.nasa.gov/project/DCOTSS/DCOTSS-Aircraft-Data_1). Feel free to [email me](mailto: yaoweili@seas.harvard.edu) if you have any questions on the aerosol data.
 
-
-<br/><br/><br/>
+<br/><br/>
 
 <!-- Climate change can pose a substantial threat to air quality and human health. For example, extreme drought and heat waves can increase the risk of wildfire and dust storms, leading to excessive levels of health-damaging pollutants. However, most existing climate/health studies focus primarily on the impacts of climate change ignored the substantial channel through climate-induced air pollution changes. Quantitative evidence of how climate change influences air pollution and human health is highly incomplete. 
 
@@ -34,9 +33,9 @@ Impacts of climate change on wildfiresmoke exposure over the continental US.*
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=350 height=350/>
 
+UTLS aerosols samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Offline analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
 
-
-<br/><br/><br/>
+<br/><br/>
 
 <!-- <img src="/images/fig_china_expost.png" alt="China energy policy" align="right" class="inline" width=295 height=300/>
 
