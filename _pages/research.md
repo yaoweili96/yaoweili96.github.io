@@ -28,10 +28,11 @@ Impacts of historical and future droughts on electricity system, carbon emission
 Impacts of climate change on wildfiresmoke exposure over the continental US.*
 <br/><br/><br/> -->
 
-**2. Offline chemical imaging of UTLS aerosols samples**\
-(In collaboration with Alex Laskin Group at Puerdue Univerist; Swarup China and Zezhen (Jay) Cheng at EMSL)
+**2. Offline chemical imaging of UTLS aerosol samples**\
+(In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen (Jay) Cheng at EMSL)
 
-<img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=400 height=400/>
+<img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=350 height=350/>
+
 
 
 <br/><br/><br/>
