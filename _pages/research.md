@@ -52,7 +52,7 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 **3. Composition dependence of stratospheric aerosol radiative forcing**\
 (In collaboration with Terry Deshler at CU Boulder)
 
-<img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=350 height=350/>
+<img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=400 height=400/>
 
 While it is generally assumed that stratospheric aerosol is dominated by pure sulfuric acid plus water aerosols, recent in situ measurements and modeling studies suggest that organic matter makes up a significant fraction of lower stratospheric aerosol. The implications of this organic component are uncertain but may require significant revision of our understanding of the stratosphere's climate influence. I investigated the effects of the refractive index of organics and their mixing state with sulfate on shortwave radiative forcing (RF) of stratospheric aerosols. Using long-term balloon-borne aerosol measurement records and radiative transfer calculations, I found that organics may have significant impacts (up to 100% change) on stratospheric aerosol shortwave RF during periods of minimal-moderate volcanic activities. Currently, however, there is very little data on the mixing state and refractive index of organic-containing stratospheric aerosols.
 
@@ -64,7 +64,7 @@ While it is generally assumed that stratospheric aerosol is dominated by pure su
 **4. Optical properties of organic aerosols**\
 (In collaboration with Pengfei Liu Group at Georgia Tech)
 
-<img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=350 height=350/>
+<img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
 
 Accurate aerosol refractive index measurements are critical for modeling aerosol-radiation interaction, yet they are limited for ambient organic aerosols, leading to large uncertainties in estimating aerosol radiative effects. I developed a semiempirical model that predicts the real refractive index n of organic aerosol material from its widely measured oxygen-to-carbon (O:C) and hydrogen-to-carbon (H:C) elemental ratios. The model was based on the theoretical framework of Lorenz-Lorentz equation and trained with n-values at 589 nm (n_589nm) of 160 pure compounds. The predictions can be expanded to predict n-values in a wide spectrum between 300 and 1200 nm. The model was validated with newly measured and literature datasets of n-values for laboratory secondary organic aerosol (SOA) materials. Uncertainties of n_589nm predictions for all SOA samples are within ±5%. The model suggests that n_589nm-values of organic aerosols may vary within a relatively small range for typical O:C and H:C values observed in the atmosphere. 
 
