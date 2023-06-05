@@ -13,6 +13,7 @@ My research studies the impacts of changing human emissions and increasing wildf
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
 **1. *In situ* characterization and sampling of aerosols in the UTLS**
+(In collabporation with DCOTSS and SABRE teams)
 
 <img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=400 height=400/>
 
@@ -26,6 +27,7 @@ Impacts of climate change on wildfiresmoke exposure over the continental US.*
 <br/><br/><br/> -->
 
 **2. Offline chemical imaging of UTLS aerosols samples**
+(In collaboration with Alex Laskin Group at Puerdue Univerist; Swarup China and Zezhen (Jay) Cheng at EMSL)
 
 <!-- <img src="/images/fig_china_expost.png" alt="China energy policy" align="right" class="inline" width=295 height=300/>
 
