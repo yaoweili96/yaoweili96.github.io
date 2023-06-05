@@ -13,7 +13,7 @@ My research studies the impacts of changing human emissions and increasing wildf
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
 **1. *In situ* characterization and sampling of aerosols in the UTLS**\
-(In collabporation with DCOTSS and SABRE teams)
+(In collaboration with DCOTSS and SABRE teams)
 
 <img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=400 height=400/>
 
@@ -49,12 +49,14 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 
 <br/><br/><br/><br/><br/><br/> -->
 
-**3. Composition dependence of stratospheric aerosol radiative forcing**
+**3. Composition dependence of stratospheric aerosol radiative forcing**\
+(In collaboration with Terry Deshler at CU Boulder)
 
 <!-- Exposure to air pollution and the associated health burden has been shown to be unequally distributed across populations. My research demonstrates that designing policies to address disparities in exposure to air pollution across population groups, is not straightforward. Focusing on the effects of wind power development on air quality in the US, I showed that developing wind power does not significantly reduce the existing gap of pollution exposure between different population groups, despite its substantial overall benefits on air quality and human health.
 <br/><br/><br/> -->
 
-**4. Optical properties of organic aerosols**
+**4. Optical properties of organic aerosols**\
+(In collaboration with Pengfei Liu Group at Georgia Tech)
 
 <!-- <img src="/images/fig_HE.png" alt="High-emitter identification" align="right" class="inline" width=400 height=240/>
 
