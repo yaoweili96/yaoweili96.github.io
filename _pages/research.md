@@ -31,7 +31,7 @@ Impacts of climate change on wildfiresmoke exposure over the continental US.*
 **2. Offline chemical imaging of UTLS aerosol samples**\
 (In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen Cheng at EMSL)
 
-<img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=350 height=350/>
+<img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=300 height=300/>
 
 UTLS aerosols samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Preliminary analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
 
