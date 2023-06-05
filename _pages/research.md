@@ -52,7 +52,9 @@ Another challenge in evaluating the effects of policies on air quality comes fro
 **3. Composition dependence of stratospheric aerosol radiative forcing**\
 (In collaboration with Terry Deshler at CU Boulder)
 
-<img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=350 height=350/>
+<img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=350 height=350/>
+
+<br/><br/>
 
 <!-- Exposure to air pollution and the associated health burden has been shown to be unequally distributed across populations. My research demonstrates that designing policies to address disparities in exposure to air pollution across population groups, is not straightforward. Focusing on the effects of wind power development on air quality in the US, I showed that developing wind power does not significantly reduce the existing gap of pollution exposure between different population groups, despite its substantial overall benefits on air quality and human health.
 <br/><br/><br/> -->
