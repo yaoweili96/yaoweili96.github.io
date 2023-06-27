@@ -28,7 +28,7 @@ Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, E
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-8\. **Yaowei Li**^, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinor Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023). "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*
+8\. **Yaowei Li**^, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinor Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023). "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)\]
 
 7\. Yan Zheng, Ruqian Miao, Qi Zhang, **Yaowei Li**, Xi Cheng, Keren Liao, Theodore Koenig, Yanli Ge, Lizi Tang, Dongjie Shang, Min Hu, Shiyi Chen, Qi Chen. (2023) "Secondary formation of submicron and supermicron organic and inorganic aerosols in a highly polluted urban area." *Journal of Geophysical Research: Atmospheres*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037865)\]
 
