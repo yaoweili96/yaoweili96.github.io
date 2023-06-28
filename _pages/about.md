@@ -6,9 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  
+<meta name="google-site-verification" content="eq57HpKtuGu8vVHFMM_1PdCaxVqs7Q8atBZZepmNhps" />
 ---
 
-<meta name="google-site-verification" content="eq57HpKtuGu8vVHFMM_1PdCaxVqs7Q8atBZZepmNhps" />
 
 {% include base_path %}
 
