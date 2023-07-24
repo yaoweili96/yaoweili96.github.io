@@ -23,7 +23,7 @@ author_profile: true
 
 Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. "Indoor Air Quality Implications of Germicidal 222 nm Light". *(submitted)* \[[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/646b8610b3dd6a65308e8a6a)\]
 
-**Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "Stratospheric aerosol evolution after 2021 La Soufrière eruptions: insights from aircraft measurements and aerosol-chemistry-climate model simulations" *(in preparation)*  
+**Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Gabriel Chiodo, Timofei Sukhodolov, ThaoPaul Bui, Kenneth Bowman, Frank Keutsch, et al. "In situ measurements of stratospheric aerosol perturbations and modeled ozone and radiative impacts from the 2021 La Soufrière eruption" *(in preparation)*  
 
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
