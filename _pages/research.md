@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research (This page is Under Construction!!!)"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
