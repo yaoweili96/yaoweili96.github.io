@@ -73,9 +73,16 @@ Accurate aerosol refractive index measurements are critical for modeling aerosol
 **5. Probing biosphere-atmosphere interactions with UAV measurements of VOCs**\
 (In collaboration with Qi Chen Group at PKU and Scot Martin Group at Harvard)
 
-<img src="/images/UAV_VOC.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
+<img src="/images/UAV_VOC.png" alt="UAV_VOC" align="right" class="inline" width=400 height=400/>
 
 Volatile organic compounds (VOCs) are important air pollutants and play a critical role in biosphere-atmosphere interactions. Atmospheric sampling onboard a multicopter unmanned aerial vehicle (UAV), serving as an economical and flexible measurement technique, collects valuable VOC data at intermediate spatial scales of hundreds of meters. I developed an UAV-based VOC sampling apparatus. The sampler was deployed in a subtropical forest in South China to get vertical measurements of VOCs over the canopy. VOC samples were analyzed offline by thermal-desorption gas chromatography-mass spectrometry (TD-GC-MS). High aromatic VOCs concentrations and (methacrolein + methyl vinyl ketone) to isoprene ratios indicate a strong influence of anthropogenic pollution. Our measurements together with a gradient transport model suggested significant isoprene emission heterogeneity along the mountain slope at intermediate spatial scales, which has not yet been well represented in most biosphere emission models.*[(Li et al., ACS Earth and Space Chemistry, 2021)](https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.0c00271)*
+
+**6. Measurements of reactive organic carbon with Harvard PTR3 instruments**\
+(In collaboration with Jesse Kroll Group at MIT)
+
+<img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
+
+Reactive organic carbon (ROC) species are all atmospheric organic species excluding methane; this includes volatile organic compounds (VOCs) and other lower-volatility organics such as particulate organic carbon. Chemical ionization mass spectrometry (CIMS) is an important analytical tool for measurements of ROC in the atmosphere. I have been using and maintaining two CIMS instruments (aka PTR3) in the Keutsch group atr Harvard and participated in several laboratory and field projects with PTR3 instruments. Harvard PTR3 instruments can be operated in one of two ionization modes: using either proton transfer reactions such as for PTR-MS or ammonium ion ligand-switching reactions such as for NH4+ CIMS. Employment of the two ionization modes significantly improves the measurement capability of the instruments and allows for detection of a vast array of compounds covering a wide range of volatilities from VOCs to ELVOCs. In addition, the PTR3 instruments can be equipped with an aerosol inlet to quantify particle-phase compounds. The instrument detection limits are below 1 pptv (part per trillion by volume) for a 1 second integration time for select compounds which allows for the flux measurements. 
 
 
 <!-- <img src="/images/fig_HE.png" alt="High-emitter identification" align="right" class="inline" width=400 height=240/>
