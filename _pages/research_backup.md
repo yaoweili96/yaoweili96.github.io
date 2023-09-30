@@ -9,8 +9,7 @@ author_profile: true
 
 
 My current research examines how changing human emissions and increasing wildfires impact atmospheric aerosols in a changing climate, and their feedback effects on aerosol-chemistry-climate interactions. Specifically, I focus on studying the climate and chemical impacts of aerosols in the upper troposphere and lower stratosphere (UTLS).\
-UTLS aerosols play a crucial role in global radiative balance by scattering and absorbing radiation, as well as influencing ice cloud formation. They also affect the protective ozone layer by modulating heterogeneous reaction rates of halogen species on the particle surface. However, significant knowledge gaps remain regarding the properties of UTLS aerosols, including their microphysics, chemical composition, and optical properties. To address these gaps, my research combines *in situ* measurements, laboratory experiments, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. \
-I have also conducted comprehensive studies on urban PM2.5 pollution, employing a combination of field and laboratory measurements. Furthermore, I have explored biosphere-atmosphere interactions by leveraging unmanned aerial vehicle (UAV) measurements.
+UTLS aerosols play a crucial role in global radiative balance by scattering and absorbing radiation, as well as influencing ice cloud formation. They also affect the protective ozone layer by modulating heterogeneous reaction rates of halogen species on the particle surface. However, significant knowledge gaps remain regarding the properties of UTLS aerosols, including their microphysics, chemical composition, and optical properties. To address these gaps, my research combines *in situ* measurements, laboratory experiments, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
@@ -69,14 +68,6 @@ While it is generally assumed that stratospheric aerosol is dominated by pure su
 <img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
 
 Accurate aerosol refractive index measurements are critical for modeling aerosol-radiation interaction, yet they are limited for ambient organic aerosols, leading to large uncertainties in estimating aerosol radiative effects. I developed a semiempirical model that predicts the real refractive index n of organic aerosol material from its widely measured oxygen-to-carbon (O:C) and hydrogen-to-carbon (H:C) elemental ratios. The model was based on the theoretical framework of Lorenz-Lorentz equation and trained with n-values at 589 nm (n_589nm) of 160 pure compounds. The predictions can be expanded to predict n-values in a wide spectrum between 300 and 1200 nm. The model was validated with newly measured and literature datasets of n-values for laboratory secondary organic aerosol (SOA) materials. Uncertainties of n_589nm predictions for all SOA samples are within ±5%. The model suggests that n_589nm-values of organic aerosols may vary within a relatively small range for typical O:C and H:C values observed in the atmosphere. *[(Li et al., GRL, 2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)*
-
-**5. Probing biosphere-atmosphere interactions with UAV measurements of VOCs**\
-(In collaboration with Qi Chen Group at PKU and Scot Martin Group at Harvard)
-
-<img src="/images/UAV_VOC.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
-
-Volatile organic compounds (VOCs) are important air pollutants and play a critical role in biosphere-atmosphere interactions. Atmospheric sampling onboard a multicopter unmanned aerial vehicle (UAV), serving as an economical and flexible measurement technique, collects valuable VOC data at intermediate spatial scales of hundreds of meters. I developed an UAV-based VOC sampling apparatus. The sampler was deployed in a subtropical forest in South China to get vertical measurements of VOCs over the canopy. VOC samples were analyzed offline by thermal-desorption gas chromatography-mass spectrometry (TD-GC-MS). High aromatic VOCs concentrations and (methacrolein + methyl vinyl ketone) to isoprene ratios indicate a strong influence of anthropogenic pollution. Our measurements together with a gradient transport model suggested significant isoprene emission heterogeneity along the mountain slope at intermediate spatial scales, which has not yet been well represented in most biosphere emission models.*[(Li et al., ACS Earth and Space Chemistry, 2021)](https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.0c00271)*
-
 
 <!-- <img src="/images/fig_HE.png" alt="High-emitter identification" align="right" class="inline" width=400 height=240/>
 
