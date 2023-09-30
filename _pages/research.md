@@ -9,7 +9,9 @@ author_profile: true
 
 
 My current research examines how changing human emissions and increasing wildfires impact atmospheric aerosols in a changing climate, and their feedback effects on aerosol-chemistry-climate interactions. Specifically, I focus on studying the climate and chemical impacts of aerosols in the upper troposphere and lower stratosphere (UTLS).\
+
 UTLS aerosols play a crucial role in global radiative balance by scattering and absorbing radiation, as well as influencing ice cloud formation. They also affect the protective ozone layer by modulating heterogeneous reaction rates of halogen species on the particle surface. However, significant knowledge gaps remain regarding the properties of UTLS aerosols, including their microphysics, chemical composition, and optical properties. To address these gaps, my research combines *in situ* measurements, laboratory experiments, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. \
+
 I have also conducted comprehensive studies on urban PM2.5 pollution, employing a combination of field and laboratory measurements. Furthermore, I have explored biosphere-atmosphere interactions by leveraging unmanned aerial vehicle (UAV) measurements.
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
