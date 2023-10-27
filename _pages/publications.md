@@ -21,10 +21,12 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-**Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "*In situ* measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Atmospheric Chemistry and Physics Discussions* [[preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1891/)\]
+**Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Modification and performance of the Portable Optical Particle Spectrometer for particle concentration and size distribution measurements in the stratosphere and upper troposphere* [in preparation]
 
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+
+10\. **Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "*In situ* measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Accepted Atmospheric Chemistry and Physics* [[preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1891/)\]
 
 9\. Victoria Barber^, Matthew Goss^, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)\]
 
