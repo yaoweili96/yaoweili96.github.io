@@ -26,11 +26,11 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-10\. **Yaowei Li**^, Corey Pedersen^, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "*In situ* measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Accepted in Atmospheric Chemistry and Physics* [[preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1891/)\]
+10\. **Yaowei Li**, Corey Pedersen, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "*In situ* measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Accepted in Atmospheric Chemistry and Physics* [[preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1891/)\]
 
-9\. Victoria Barber^, Matthew Goss^, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)\]
+9\. Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)\]
 
-8\. **Yaowei Li**^, Bin Bai^, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinori Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023) "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)\]
+8\. **Yaowei Li**, Bin Bai, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinori Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023) "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)\]
 
 7\. Yan Zheng, Ruqian Miao, Qi Zhang, **Yaowei Li**, Xi Cheng, Keren Liao, Theodore Koenig, Yanli Ge, Lizi Tang, Dongjie Shang, Min Hu, Shiyi Chen, Qi Chen. (2023) "Secondary formation of submicron and supermicron organic and inorganic aerosols in a highly polluted urban area." *Journal of Geophysical Research: Atmospheres*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037865)\]
 
@@ -46,7 +46,6 @@ author_profile: true
 
 1\. Ben Liu, Cheng Wu, Nan Ma, Qi Chen, **Yaowei Li**, Jianhuai Ye, Scot Martin, and Yong Jie Li. (2020) "Vertical profiling of fine particulate matter and black carbon by using unmanned aerial vehicle in Macau, China." *Science of the Total Environment*. \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0048969719361054)\]
 
-^ denotes equal contribution
 <br/>
 
 
