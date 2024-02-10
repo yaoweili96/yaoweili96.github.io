@@ -21,7 +21,7 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Pengfei Liu, Akua A. Asa-Awuku, James Schwab. "A simple optical scatter monitor system quantifying organic aerosol subsaturated hygroscopicity." [submitted]
+Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Pengfei Liu, Akua A. Asa-Awuku, James Schwab. "A simple optical scatter monitor system quantifying organic aerosol subsaturated hygroscopicity." [under review]
 
 **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Modification and performance of the Portable Optical Particle Spectrometer for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [in preparation]
 
