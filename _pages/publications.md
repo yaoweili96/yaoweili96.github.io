@@ -23,7 +23,7 @@ author_profile: true
 
 Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Pengfei Liu, Akua A. Asa-Awuku, James Schwab. "A simple optical scatter monitor system quantifying organic aerosol subsaturated hygroscopicity." [under review]
 
-**Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Modification and performance of the Portable Optical Particle Spectrometer for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [in preparation]
+**Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [in preparation]
 
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
