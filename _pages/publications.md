@@ -21,6 +21,8 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
+Zhaojin An, Rujing Yin, Xinyan Zhao, Xiaoxiao Li, Yi Yuan, Junchen Guo, Yuyang Li, Xue Li, Dandan Li, **Yaowei Li**, Dongbin Wang, Chao Yan, Kebin He, Douglas R. Worsnop, Frank N. Keutsch, and Jingkun Jiang. "Molecular and seasonal characteristics of organic vapors in urban Beijing: insights from Vocus-PTR measurements." [under review for *Atmospheric Chemistry and Physics*] [[preprint](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1325/#discussion)]
+
 Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Pengfei Liu, Akua A. Asa-Awuku, James Schwab. "A simple optical scatter monitor system quantifying organic aerosol subsaturated hygroscopicity." [under review]
 
 **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [in preparation]
@@ -30,7 +32,7 @@ Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Peng
 
 10\. **Yaowei Li**, Corey Pedersen, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Atmospheric Chemistry and Physics* [[pdf](https://acp.copernicus.org/articles/23/15351/2023/)\]
 
-9\. Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. \[[pdf](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)\]
+9\. Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. [[pdf](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)\]
 
 8\. **Yaowei Li**, Bin Bai, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinori Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023) "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[pdf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)\]
 
