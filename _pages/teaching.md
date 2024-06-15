@@ -19,34 +19,38 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-# **<ins>Teaching Fellow / Teaching Assistant</ins>**
+## **<ins>Teaching Fellow / Teaching Assistant</ins>**
 
 **The Challenge of Human Induced Climate Change: Transitioning to a Post Fossil Fuel Future (GENED1137)**
 
-Undergraduate and Graduate course, Harvard University, General Education, 2023
+*Undergraduate and Graduate course, Harvard University, General Education, 2023*
 
 I was one of the Teaching Follows (TF) working with Prof. Michael McElroy on this course. This course provide students with an understanding of relevant physical, technical and social factors of human induced climate change.
 
 **Hydrology (EPS/ESE162)**
 
-Undergraduate course, Harvard University, Department of Earth and Planetary Sciences, 2020
+*Undergraduate course, Harvard University, Department of Earth and Planetary Sciences, 2020*
 
 I was one of the Teaching Follows (TF) working with Prof. Kaighin McColl on this course. This course provides an introduction to the global hydrologic cycle and relevant terrestrial and atmospheric processes.
 
 **China’s Energy and Environmental Challenges (12730070)**
 
-Undergraduate and graduate course, Peking University, College of Environmental Sciences and Engineering, 2016
+*Undergraduate and graduate course, Peking University, College of Environmental Sciences and Engineering, 2016*
 
 I was the Teaching Assiatant (TA) working with Prof. Qi Chen on this course. As one in “On China Series: English-Instructed Courses”, this course introduces particularly China’s situation and its energy-related environmental challenges.
 
-**<ins>Guest Lecturer</ins>**
+## **<ins>Guest Lecturer</ins>**
 
-ESE/EPS 166 - State-of-the-Art Harvard Climate Observatory and Associated Instrumentation (Spring 2024, Harvard
-University)
+**State-of-the-Art Harvard Climate Observatory and Associated Instrumentation (ESE/EPS166)** 
 
-SEE 3201 - Atmospheric Science – An Introductory Survey (Spring 2024, City University of Hong Kong)
+Spring 2024, Harvard University
 
-PUM 6306 - Energy, Climate Change and Sustainable Development in China (Spring 2023, Shanghai Jiao Tong
-University)
+**Atmospheric Science – An Introductory Survey (SEE3201)** 
+
+Spring 2024, City University of Hong Kong
+
+**Energy, Climate Change and Sustainable Development in China (PUM 6306)** 
+
+Spring 2023, Shanghai Jiao Tong University
 
 
