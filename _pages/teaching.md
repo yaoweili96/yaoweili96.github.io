@@ -43,14 +43,14 @@ I was the Teaching Assiatant (TA) working with Prof. Qi Chen on this course. As 
 
 **State-of-the-Art Harvard Climate Observatory and Associated Instrumentation (ESE/EPS166)** 
 
-Spring 2024, Harvard University
+*Undergraduate course, Harvard University, Spring 2024*
 
 **Atmospheric Science – An Introductory Survey (SEE3201)** 
 
-Spring 2024, City University of Hong Kong
+*Undergraduate course, City University of Hong Kong, Spring 2024*
 
 **Energy, Climate Change and Sustainable Development in China (PUM 6306)** 
 
-Spring 2023, Shanghai Jiao Tong University
+*Undergraduate course, Shanghai Jiao Tong University, Spring 2023*
 
 
