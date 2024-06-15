@@ -19,7 +19,7 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-**<ins>Teaching Fellow / Teaching Assistant</ins>**
+# **<ins>Teaching Fellow / Teaching Assistant</ins>**
 
 **The Challenge of Human Induced Climate Change: Transitioning to a Post Fossil Fuel Future (GENED1137)**
 
@@ -40,6 +40,7 @@ Undergraduate and graduate course, Peking University, College of Environmental S
 I was the Teaching Assiatant (TA) working with Prof. Qi Chen on this course. As one in “On China Series: English-Instructed Courses”, this course introduces particularly China’s situation and its energy-related environmental challenges.
 
 **<ins>Guest Lecturer</ins>**
+
 ESE/EPS 166 - State-of-the-Art Harvard Climate Observatory and Associated Instrumentation (Spring 2024, Harvard
 University)
 
