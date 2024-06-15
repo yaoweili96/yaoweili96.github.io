@@ -2,7 +2,7 @@
 title: "The Challenge of Human Induced Climate Change: Transitioning to a Post Fossil Fuel Future (GENED1137)"
 collection: teaching
 type: "Undergraduate and Graduate course"
-permalink: /teaching/GENED1137_Spring2023
+# permalink: /teaching/GENED1137_Spring2023
 venue: "Harvard University, General Education"
 date: 2023-03-01
 location: "Cambridge, MA"
