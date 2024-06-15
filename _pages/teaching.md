@@ -21,7 +21,7 @@ author_profile: true
 
 ## **<ins>Teaching Fellow / Teaching Assistant</ins>**
 
-<span style="color: #84d6e2">**The Challenge of Human Induced Climate Change: Transitioning to a Post Fossil Fuel Future (GENED1137)**<span style="color: #84d6e2">
+<span style="color: #39aecf">**The Challenge of Human Induced Climate Change: Transitioning to a Post Fossil Fuel Future (GENED1137)**<span style="color: #39aecf">
 
 *Undergraduate and Graduate course, Harvard University, General Education, 2023*
 
