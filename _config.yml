@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yaowei Li (李垚纬)"
 title_separator          : "-"
 name                     : &name "Yaowei Li"
-description              : &description "Postdoctoral Fellow in Atmospheric Chemistry at Harvard Univeristy"
+description              : &description "NOAA Climate & Global Change Postdoctoral Fellow at MIT and Caltech"
 url                      : https://yaoweili96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaoweili96/yaoweili96.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yaowei Li (he/him), Ph.D."
   avatar           : "Yaowei_photo.png"
-  bio              : "Atmospheric Chemist at Harvard; study climate and chemical impacts of atmospheric aerosols"
+  bio              : "NOAA Climate & Global Change Postdoctoral Fellow at MIT and Caltech; study climate and chemical impacts of atmospheric aerosols"
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en"
-  email            : "yaoweili@seas.harvard.edu"
+  email            : "yaoweili@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
