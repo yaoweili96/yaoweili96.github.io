@@ -25,14 +25,14 @@ author_profile: true
 
 Zhaojin An, Rujing Yin, Xinyan Zhao, Xiaoxiao Li, Yi Yuan, Junchen Guo, Yuyang Li, Xue Li, Dandan Li, **Yaowei Li**, Dongbin Wang, Chao Yan, Kebin He, Douglas R. Worsnop, Frank N. Keutsch, and Jingkun Jiang. "Molecular and seasonal characteristics of organic vapors in urban Beijing: insights from Vocus-PTR measurements." [under review for *Atmospheric Chemistry and Physics*] [[preprint](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1325/#discussion)]
 
-Victoria Barber, Lexy N. LeMar, **Yaowei Li**, Jonathan W. Zheng, Frank N. Keutsch, Jesse H. Kroll. "Enhanced organic nitrate formation from peroxy radicals in the condensed phase." [submitted]
-
 Jie Zhang, Tianyu Zhu, Alexandra Catena, **Yaowei Li**, Margaret J. Schwab, Pengfei Liu, Akua A. Asa-Awuku, James Schwab. "A simple optical scatter monitor system quantifying organic aerosol subsaturated hygroscopicity." [submitted]
 
 **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [in preparation]
 
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+
+11\. Victoria Barber, Lexy N. LeMar, **Yaowei Li**, Jonathan W. Zheng, Frank N. Keutsch, Jesse H. Kroll. (2024) "Enhanced organic nitrate formation from peroxy radicals in the condensed phase" *Environmental Science & Technology Letters* [[pdf](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00473#)\]
 
 10\. **Yaowei Li**, Corey Pedersen, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Atmospheric Chemistry and Physics* [[pdf](https://acp.copernicus.org/articles/23/15351/2023/)\]
 
