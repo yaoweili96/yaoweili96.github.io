@@ -41,7 +41,7 @@ I was the Teaching Assiatant (TA) working with [Prof. Qi Chen](https://scholar.g
 
 ## **<ins>Guest Lecturer</ins>**
 
-<span style="color: #4bbad8">**Environmental Chemistry (Spring 2025)**<span style="color: #4bbad8">
+<span style="color: #4bbad8">**Environmental Chemistry (CHEM 610)**<span style="color: #4bbad8">
 
 *Graduate course, University of Tennessee, Knoxville, Spring 2025*
 
