@@ -41,6 +41,10 @@ I was the Teaching Assiatant (TA) working with [Prof. Qi Chen](https://scholar.g
 
 ## **<ins>Guest Lecturer</ins>**
 
+<span style="color: #4bbad8">**Environmental Chemistry (Spring 2025)**<span style="color: #4bbad8">
+
+*Graduate course, University of Tennessee, Knoxville, Spring 2025*
+
 <span style="color: #4bbad8">**State-of-the-Art Harvard Climate Observatory and Associated Instrumentation (ESE/EPS166)**<span style="color: #4bbad8">
 
 *Undergraduate course, Harvard University, Spring 2024*
