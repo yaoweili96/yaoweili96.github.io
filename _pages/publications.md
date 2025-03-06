@@ -23,15 +23,17 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-7\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from pyrocumulonimbus." [*under review*]
+8\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from pyrocumulonimbus." [*under review*]
 
-6\. **Yaowei Li**, Jianhuai Ye, et al. "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*under review*]
+7\. **Yaowei Li**, Jianhuai Ye, et al. "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*under review*]
 
-5\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. "Human influence on climate detectable in the late 19th century." [*under review*]
+6\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. "Human influence on climate detectable in the late 19th century." [*under review*]
 
-4\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." [*under review*]
+5\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." [*under review*]
 
-3\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*submitted*]
+4\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*submitted*]
+
+4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*submitted*]
 
 2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*submitted*]
 
