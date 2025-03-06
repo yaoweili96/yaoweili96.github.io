@@ -33,7 +33,7 @@ author_profile: true
 
 4\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*submitted*]
 
-4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*submitted*]
+3\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*submitted*]
 
 2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*submitted*]
 
