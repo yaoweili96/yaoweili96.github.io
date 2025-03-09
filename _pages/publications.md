@@ -25,11 +25,11 @@ author_profile: true
 
 8\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from pyrocumulonimbus." [*under review*]
 
-7\. **Yaowei Li**, Jianhuai Ye, et al. "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*under review*]
+7\. **Yaowei Li**, Jianhuai Ye, et al. "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*revise and resubmit*]
 
 6\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. "Human influence on climate detectable in the late 19th century." [*under review*]
 
-5\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." [*under review*]
+5\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." [*revise and resubmit*]
 
 4\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*submitted*]
 
