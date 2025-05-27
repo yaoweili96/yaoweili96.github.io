@@ -23,25 +23,25 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-9\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
+7\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
-8\. **Yaowei Li**, Jianhuai Ye, et al. "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*revise and resubmit*]
+6\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*revise and resubmit*]
 
-7\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. "Human influence on climate detectable in the late 19th century." [*revise and resubmit*]
+5\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
-6\. Jie Zhang, Tianyu Zhu, John Sullivan, **Yaowei Li**, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Amanda Teora, James Schwab. "First view from TEMPO and mobile lab: coastal high-ozone band induced by NYC NO2 plume." [*under review*]
+4\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*under review*]
 
-5\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*under review*]
+3\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*submitted*]
 
-4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
-
-3\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*submitted*]
-
-2\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*submitted*]
+2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*submitted*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+
+16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*Accepted, Environmental Science & Technology*]
+
+15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." [*Accepted, Proceedings of the National Academy of Sciences*]
 
 14\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. (2025) "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." *ACS ES&T Air* [[link](https://pubs.acs.org/doi/10.1021/acsestair.5c00006)]
 
