@@ -41,7 +41,9 @@ author_profile: true
 
 16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*Accepted, Environmental Science & Technology*]
 
-15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." [*Accepted, Proceedings of the National Academy of Sciences*]
+15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2500829122)]
+
+    Media: [[Nature News](https://www.nature.com/articles/d41586-025-01909-z)], [[CNN](https://www.cnn.com/2025/06/16/climate/global-warming-detection-study)]
 
 14\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. (2025) "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." *ACS ES&T Air* [[link](https://pubs.acs.org/doi/10.1021/acsestair.5c00006)]
 
