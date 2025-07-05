@@ -23,9 +23,7 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-7\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
-
-6\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*revise and resubmit*]
+6\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
 5\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
@@ -38,6 +36,8 @@ author_profile: true
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+
+17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*Accepted, Bulletin of the American Meteorological Society*]
 
 16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*Accepted, Environmental Science & Technology*]
 
