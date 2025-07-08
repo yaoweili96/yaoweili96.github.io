@@ -39,7 +39,7 @@ author_profile: true
 
 17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*Accepted, Bulletin of the American Meteorological Society*]
 
-16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." [*Accepted, Environmental Science & Technology*]
+16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology* [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)]
 
 15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2500829122)]
 
