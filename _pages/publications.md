@@ -23,11 +23,9 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-6\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
+5\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
-5\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
-
-4\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*under review*]
+4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
 3\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*submitted*]
 
@@ -37,9 +35,11 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
+18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*Accepted, ACS ES&T Air*]
+
 17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*Accepted, Bulletin of the American Meteorological Society*]
 
-16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology* [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)]
+16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology* [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)] &emsp;🌟 **[ACS Editors' Choice](https://pubs.acs.org/page/policy/editorchoice/index.html)**
 
 15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2500829122)]
 
