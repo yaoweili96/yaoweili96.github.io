@@ -37,7 +37,7 @@ author_profile: true
 
 18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*Accepted, ACS ES&T Air*]
 
-17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." [*Accepted, Bulletin of the American Meteorological Society*]
+17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. (2025) "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." *Bulletin of the American Meteorological Society* [[link](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0177.1/BAMS-D-24-0177.1.xml?rskey=dGuoNb&result=1)]
 
 16\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology* [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)] &emsp;🌟 **[ACS Editors' Choice](https://pubs.acs.org/page/policy/editorchoice/index.html)**
 
