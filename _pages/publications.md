@@ -27,15 +27,15 @@ author_profile: true
 
 4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
-3\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*submitted*]
+3\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
 
-2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*submitted*]
+2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” [*Accepted, ACS ES&T Air*]
+18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. (2025) “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” *ACS ES&T Air* [[link](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00138)]
 
 17\. Kenneth P. Bowman and 35 others, including **Yaowei Li**. (2025) "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project." *Bulletin of the American Meteorological Society* [[link](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0177.1/BAMS-D-24-0177.1.xml?rskey=dGuoNb&result=1)]
 
