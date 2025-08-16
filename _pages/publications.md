@@ -23,17 +23,23 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-5\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
+7\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
-4\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
+6\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
-3\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
+5\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
 
-2\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
+4\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
+
+3\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
+
+2\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+
+19\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation from biomass burning coupled with deep convection.” (accepted in *Nature Geoscience*)
 
 18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. (2025) “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” *ACS ES&T Air* [[link](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00138)]
 
