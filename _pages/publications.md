@@ -23,17 +23,21 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-7\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
+9\. **Yaowei Li**, Frank N. Keutsch, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
-6\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
+8\. Laila V. Howar and 24 others, including **Yaowei Li**. "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." [*under review*]
 
-5\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
+7\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
 
-4\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
+6\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
-3\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
+5\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
 
-2\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
+4\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
+
+3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Particle coating influences pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires" [*under review*]
+
+2\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
@@ -50,6 +54,8 @@ author_profile: true
 15\. Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Human influence on climate detectable in the late 19th century." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2500829122)]
 
 &emsp;&emsp;Media: [Nature News](https://www.nature.com/articles/d41586-025-01909-z), [CNN](https://www.cnn.com/2025/06/16/climate/global-warming-detection-study)
+
+&emsp;&emsp;Response letter: Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Reply to Fleming: Not a gossamer web." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2521259122)]
 
 14\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. (2025) "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." *ACS ES&T Air* [[link](https://pubs.acs.org/doi/10.1021/acsestair.5c00006)]
 
