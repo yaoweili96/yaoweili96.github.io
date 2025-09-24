@@ -11,8 +11,8 @@ I study how aerosols affect atmospheric chemistry, air quality, and climate, par
 
 As fossil fuel emissions decline, aerosols from wildfires, volcanic eruptions, and biogenic sources are becoming increasingly important, with wildfire frequency and intensity rising due to climate change. These events profoundly alter aerosol properties across altitudes, influencing air quality, weather patterns, climate feedbacks, and mitigation strategies in ways that remain poorly understood. Additionally, the growing interest in stratospheric aerosol injection as a potential climate intervention underscores the urgency to better understand aerosols in the stratosphere. To tackle these challenges, my research integrates field and laboratory measurements, satellite remote sensing, and atmospheric modeling to investigate aerosol-chemistry-climate interactions from the surface to the stratosphere.
 
-My ongoing work leverages satellite observations and climate models to:
-(1) Quantify the impacts of major wildfires and volcanic eruptions on global atmospheric temperatures, and
+My ongoing work leverages satellite observations and climate models to:\
+(1) Quantify the impacts of major wildfires and volcanic eruptions on global atmospheric temperatures, and\
 (2) Assess changes in global temperature trends, including potential evidence of “global warming acceleration”.
 
 
