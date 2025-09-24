@@ -13,7 +13,6 @@ As fossil fuel emissions decline, aerosols from wildfires, volcanic eruptions, a
 
 My ongoing work leverages satellite observations and climate models to (1) quantify the impacts of major wildfires and volcanic eruptions on global atmospheric temperatures, and (2) assess changes in the global temperature trend, including potential evidence of "global warming acceleration".
 
-<br/>
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
