@@ -1,23 +1,22 @@
----
+<!-- ---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
----
+--- -->
 
 <!--- \* denotes equally contributing authors -->
 
-I study how aerosols affect atmospheric chemistry, air quality, and climate, particularly in the context of natural hazards such as wildfires and volcanic eruptions, as well as shifting anthropogenic emissions.
 
-Aerosols significantly impact air quality and public health, causing ~4 million premature deaths annually, and affect the protective ozone layer in the stratosphere through complex heterogeneous chemistry. Moreover, aerosols remain one of the largest sources of uncertainty in climate projections due to their interactions with radiation and clouds.
+My current research examines how changing human emissions and increasing wildfires impact atmospheric aerosols in a changing climate, and their feedback effects on aerosol-chemistry-climate interactions. Specifically, I focus on studying the climate and chemical impacts of aerosols in the upper troposphere and lower stratosphere (UTLS).
 
-As fossil fuel emissions decline, aerosols from wildfires, volcanic eruptions, and biogenic sources are becoming increasingly important, with wildfire frequency and intensity rising due to climate change. These events profoundly alter aerosol properties across altitudes, influencing air quality, weather patterns, climate feedbacks, and mitigation strategies in ways that remain poorly understood. Additionally, the growing interest in stratospheric aerosol injection as a potential climate intervention underscores the urgency to better understand aerosols in the stratosphere.
+UTLS aerosols play a crucial role in global radiative balance by scattering and absorbing radiation, as well as influencing ice cloud formation. They also affect the protective ozone layer by modulating heterogeneous reaction rates of halogen species on the particle surface. However, significant knowledge gaps remain regarding the properties of UTLS aerosols, including their microphysics, chemical composition, and optical properties. To address these gaps, my research combines *in situ* measurements, laboratory experiments, satellite remote sensing, rediative transfer models, and aerosol-chemistry-climate modeling. 
 
-To tackle these challenges, my research integrates field and laboratory measurements, satellite remote sensing, and atmospheric modeling to investigate aerosol-chemistry-climate interactions from the surface to the stratosphere.
+I have also conducted comprehensive studies on urban PM2.5 pollution, employing a combination of field and laboratory measurements. Furthermore, I have explored biosphere-atmosphere interactions by leveraging unmanned aerial vehicle (UAV) measurements.
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
-**1. *In situ* characterization and sampling of aerosols in the upper tropopshere and lower stratosphere (UTLS)**\
+**1. *In situ* characterization and sampling of aerosols in the UTLS**\
 (In collaboration with DCOTSS and SABRE teams)
 
 <img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=500 height=400/>
