@@ -7,9 +7,7 @@ author_profile: true
 
 <!--- \* denotes equally contributing authors -->
 
-I study how aerosols affect atmospheric chemistry, air quality, and climate, particularly in the context of natural hazards such as wildfires and volcanic eruptions, as well as shifting anthropogenic emissions.
-
-Aerosols significantly impact air quality and public health, causing ~4 million premature deaths annually, and affect the protective ozone layer in the stratosphere through complex heterogeneous chemistry. Moreover, aerosols remain one of the largest sources of uncertainty in climate projections due to their interactions with radiation and clouds.
+I study how aerosols affect atmospheric chemistry, air quality, and climate, particularly in the context of natural hazards such as wildfires and volcanic eruptions, as well as shifting anthropogenic emissions. Aerosols significantly impact air quality and public health, causing ~4 million premature deaths annually, and affect the protective ozone layer in the stratosphere through complex heterogeneous chemistry. Moreover, aerosols remain one of the largest sources of uncertainty in climate projections due to their interactions with radiation and clouds.
 
 As fossil fuel emissions decline, aerosols from wildfires, volcanic eruptions, and biogenic sources are becoming increasingly important, with wildfire frequency and intensity rising due to climate change. These events profoundly alter aerosol properties across altitudes, influencing air quality, weather patterns, climate feedbacks, and mitigation strategies in ways that remain poorly understood. Additionally, the growing interest in stratospheric aerosol injection as a potential climate intervention underscores the urgency to better understand aerosols in the stratosphere.
 
@@ -35,7 +33,7 @@ During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.
 
 UTLS aerosol samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Preliminary analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 **3. Composition dependence of stratospheric aerosol radiative forcing**\
 (In collaboration with Terry Deshler at CU Boulder)
@@ -55,7 +53,16 @@ Accurate aerosol refractive index measurements are critical for modeling aerosol
 
 <br/><br/>
 
-**5. Probing biosphere-atmosphere interactions with UAV measurements of VOCs**\
+**5. Copter-Type UAV-Based Sensing in Atmospheric Chemistry**\
+(In collaboration with Jianhuai Ye Group at SUSTech)
+
+<img src="/images/UAV_review.png" alt="UAV_review" align="right" class="inline" width=400 height=400/>
+
+Copter-type unmanned aerial vehicles (UAVs) have emerged as cutting-edge platforms for environmental research, offering rapid and cost-effective solutions for atmospheric sensing and sampling. We reviewed recent advancements and explores future prospects for their application in atmospheric chemistry. The UAV-based techniques have demonstrated excellent capabilities in characterizing the spatial distribution of gaseous pollutants using both real-time, low-cost sensors, and offline analytical methods. These platforms have also proven effective in profiling the physicochemical properties of airborne particulate matter, providing insights into its sources, chemical transformation, and environmental and climate impacts. In regard to the applications, this review underscores the diverse roles of UAVs related to atmospheric chemistry, including emission characterization (e.g., forest volatile and bioaerosol emissions), hazard assessment (e.g., wildfire and volcanic plume monitoring), and meteorology and climate research (e.g., aerosol–cloud interactions). The review also addresses key challenges in current UAV techniques, such as payload and battery limitations, regulatory constraints, propeller-induced disturbances, and explores emerging directions, such as UAVs in biosphere-atmosphere interactions and indoor air quality monitoring. Overall, UAVs are reshaping atmospheric chemistry research by providing high-resolution spatial data sets that complement traditional methods. These advancements further enhance our understanding of atmospheric processes and facilitate the development of precise and adaptable environmental monitoring strategies.*[(Li et al., ES&T, 2025)](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)*
+
+<br/><br/>
+
+**6. Probing biosphere-atmosphere interactions with UAV measurements of VOCs**\
 (In collaboration with Qi Chen Group at PKU and Scot Martin Group at Harvard)
 
 <img src="/images/UAV_VOC.png" alt="UAV_VOC" align="right" class="inline" width=400 height=400/>
@@ -64,7 +71,7 @@ Volatile organic compounds (VOCs) are important air pollutants and play a critic
 
 <br/><br/>
 
-**6. Measurements of reactive organic carbon with Harvard PTR3 instruments**\
+**7. Measurements of reactive organic carbon with Harvard PTR3 instruments**\
 (In collaboration with Jesse Kroll Group at MIT)
 
 <img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
