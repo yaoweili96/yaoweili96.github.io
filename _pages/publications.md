@@ -23,27 +23,31 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-8\. **Yaowei Li**, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
+10\. **Yaowei Li**, et al. "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." [*under review*]
 
-7\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
+9\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
 
-6\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
+8\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. "Chemical imaging of individual stratospheric particles sampled over North America." [*under review*]
 
-5\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
+7\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
 
-4\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
+6\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
-3\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
+5\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
 
-2\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Particle coating influences pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires" [*under review*]
+4\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
+
+3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Particle coating influences pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires" [*under review*]
+
+2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-20\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation from biomass burning coupled with deep convection.” (accepted in *Nature Geoscience*)
+20\. Laila V. Howar and 26 others, including **Yaowei Li**. (2025) "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." (accepted in *JGR-Atmosphere*)
 
-19\. Laila V. Howar and 26 others, including **Yaowei Li**. (2025) "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." (accepted in *JGR-Atmosphere*)
+19\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection.” *Nature Geoscience* [[link](https://www.nature.com/articles/s41561-025-01821-1)]
 
 18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. (2025) “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” *ACS ES&T Air* [[link](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00138)]
 
@@ -55,7 +59,7 @@ author_profile: true
 
 &emsp;&emsp;Media: [Nature News](https://www.nature.com/articles/d41586-025-01909-z), [CNN](https://www.cnn.com/2025/06/16/climate/global-warming-detection-study)
 
-&emsp;&emsp;Response letter: Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Reply to Fleming: Not a gossamer web." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2521259122)]
+&emsp;&emsp;Author Response: Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu, **Yaowei Li**. (2025) "Reply to Fleming: Not a gossamer web." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/10.1073/pnas.2521259122)]
 
 14\. Zhaojin An, Dongbin Wang, Shuwen Yang, Jianguo Deng, Xue Li, **Yaowei Li**, Jingkun Jiang. (2025) "Organic fingerprints of condensable particulate matter from ultralow-emission stationary sources in China." *ACS ES&T Air* [[link](https://pubs.acs.org/doi/10.1021/acsestair.5c00006)]
 
