@@ -45,9 +45,9 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-20\. Laila V. Howar and 26 others, including **Yaowei Li**. (2025) "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." (accepted in *JGR-Atmosphere*)
+20\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection.” *Nature Geoscience* [[link](https://www.nature.com/articles/s41561-025-01821-1)]
 
-19\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection.” *Nature Geoscience* [[link](https://www.nature.com/articles/s41561-025-01821-1)]
+19\. Laila V. Howar and 26 others, including **Yaowei Li**. (2025) "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere." *JGR-Atmosphere* [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD043786)]
 
 18\. Nadia Tahsini, Selena Zhang, Matthew Goss, Seamus Frey, **Yaowei Li**, Jessica Smith, Norton Allen, M Pang, Richard Williamson, Frank Keutsch, Jesse  Kroll. (2025) “Mitigation of indoor ozone and secondary products from 222 nm germicidal UV using commercial air cleaners.” *ACS ES&T Air* [[link](https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00138)]
 
