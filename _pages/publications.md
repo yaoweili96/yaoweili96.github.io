@@ -39,7 +39,7 @@ author_profile: true
 
 3\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
 
-2\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Seasonal sources,  concentrations, and variations of aerosols and VOC in downtown Munich in 2023/24." [*under review*]
+2\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Seasonal sources,  concentrations, and variations of aerosols and VOC in downtown Munich in 2023/24." [*submitted*]
 
 1\. **Yaowei Li**, John Dykema, Norton Allen, Michael Litchfield, Michael Greenberg, Marco Rivero, Craig Mascarenhas, Da Yang, Suresh Dhaniyala, Frank N. Keutsch, et al. "Airborne Portable Optical Particle Spectrometer (POPS) for particle concentration and size distribution measurements in the stratosphere and upper troposphere." [*in preparation*]
 
