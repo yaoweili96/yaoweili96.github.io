@@ -27,7 +27,7 @@ author_profile: true
 
 9\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. "Chemical imaging of individual stratospheric particles sampled over North America." [*under review*]
 
-8\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the Formation and Control of NYC Downwind Coastal High Ozone via TEMPO Observations." [*under review*]
+8\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via TEMPO observations." [*under review*]
 
 7\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
