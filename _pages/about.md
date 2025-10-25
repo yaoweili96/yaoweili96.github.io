@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! My name is Yaowei Li (李垚纬). I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni), co-hosted by [Prof. Susan Solomon](https://www.ssolomongroup.mit.edu/susansolomon) at MIT and [Prof. Paul Wennberg](https://web.gps.caltech.edu/~wennberg/) at Caltech. 
+Hello! My name is Yaowei Li (李垚纬). I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/current-awards-alumni), co-hosted by [Prof. Susan Solomon](https://www.ssolomongroup.mit.edu/susansolomon) at MIT and [Prof. Paul Wennberg](https://web.gps.caltech.edu/~wennberg/) at Caltech. I am also a [Caltech Foster and Coco Stanback Postdoctoral Scholar](https://www.gps.caltech.edu/about/positions-available/gps-prize-postdoc-information).
 
 I received a Ph.D. in [Environmental Science & Engineering](https://seas.harvard.edu/environmental-science-engineering) with [Prof. Frank Keutsch](https://www.keutschgroup.com/home) from Harvard University in 2024. During my Ph.D., I also worked closely with my committee members:  [Prof. Jesse Kroll](https://cee.mit.edu/people_individual/jesse-kroll/), [Prof. Steve Wofsy](https://atmos.seas.harvard.edu/people/steve-wofsy) and [Prof. Scot Martin](https://eps.harvard.edu/people/scot-t-martin). 
 
