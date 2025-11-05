@@ -41,7 +41,7 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-***First-author / Co-first-author publications***
+***<ins>First-author / Co-first-author publications<ins>***
 
 23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* (accepted)
 
@@ -57,7 +57,7 @@ author_profile: true
 
 17\. **Yaowei Li**, Ben Liu, Jianhuai Ye, Tianjiao Jia, Reza Bashiri Khuzestani, Jia Yin Sun, Xi Cheng, Yan Zheng, Xin Li, Cheng Wu, Jinyuan Xin, Zhihong Wu, Matheus Akira Tomoto, Karena McKinney, Scot Martin, Yong Jie Li, and Qi Chen. (2021) "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity." *ACS Earth and Space Chemistry*. \[[link](https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271)\]
 
-***Co-author publications***
+***<ins>Co-author publications<ins>***
 
 16\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. (2025) "Changes in volatile organic compound composition from an oxidation-based air cleaner." *ACS ES&T Air*. (accepted)
 
