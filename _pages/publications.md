@@ -23,13 +23,11 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-9\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
+8\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
 
-8\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via TEMPO observations." [*under review*]
+7\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via TEMPO observations." [*under review*]
 
-7\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
-
-6\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. "Changes in volatile organic compound composition from an oxidation-based air cleaner." [*under review*]
+6\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
 5\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
 
@@ -43,9 +41,11 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
-22\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* (accepted)
+23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* (accepted)
 
-21\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* (accepted)
+22\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* [[link](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)]
+
+21\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. (2025) "Changes in volatile organic compound composition from an oxidation-based air cleaner." *ACS ES&T Air*. (accepted)
 
 20\. Xiaoli Shen, Justin Jacquot, **Yaowei Li**, Steven Sharpe, John Dykema, Gregory Schill, Kenneth Bowman, Cameron Homeyer, Matthew Fraund, Ryan Moffet, Temitope Olayemi, Jasna Pittman, Felipe Rivera-Adorno, Daniel Murphy, Jessica Smith, Alexander Laskin, Frank Keutsch, Daniel Cziczo. (2025) “Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection.” *Nature Geoscience*. [[link](https://www.nature.com/articles/s41561-025-01821-1)]
 
