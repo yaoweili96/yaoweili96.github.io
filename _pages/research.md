@@ -33,7 +33,7 @@ During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=300 height=300/>
 
-UTLS aerosol samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Preliminary analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface.
+UTLS aerosol samples for offline chemical imaging analysis were collected by a cascade impactor (Mini-MOUDI 135, MSP) onboard the NASA ER-2 and WB-57 high-altitude research aircrafts. Preliminary analysis of DCOTSS samples revealed that organic-containing particles, especially organics from wildfire sources, are common in the summer stratosphere, highlighting the potential importance of halogen activation reactions on the organic surface. *[(Sharpe, Li et al., Environ. Sci.: Atmos., 2025)](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)*
 
 <br/><br/><br/><br/>
 
