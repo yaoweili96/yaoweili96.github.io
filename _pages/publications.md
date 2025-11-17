@@ -43,7 +43,7 @@ author_profile: true
 
 ***<ins>First-author / Co-first-author publications</ins>***
 
-23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* (accepted)
+23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* (in press)
 
 22\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* [[link](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)]
 
