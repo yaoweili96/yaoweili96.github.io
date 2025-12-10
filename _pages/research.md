@@ -73,7 +73,7 @@ Volatile organic compounds (VOCs) are important air pollutants and play a critic
 
 <br/>
 
-**7.Mass spectrometry of atmospheric reactive organic carbon**\
+**7. Mass spectrometry of atmospheric reactive organic carbon**\
 (In collaboration with Jesse Kroll Group at MIT)
 
 <img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
