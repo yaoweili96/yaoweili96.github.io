@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
----
+--- -->
 
 <!--- \* denotes equally contributing authors -->
 
@@ -11,7 +11,7 @@ I study how aerosols affect atmospheric chemistry, air quality, and climate, par
 
 As fossil fuel emissions decline, aerosols from wildfires, volcanic eruptions, and biogenic sources are becoming increasingly important, with wildfire frequency and intensity rising due to climate change. These events profoundly alter aerosol properties across altitudes, influencing air quality, weather patterns, climate feedbacks, and mitigation strategies in ways that remain poorly understood. Additionally, the growing interest in stratospheric aerosol injection as a potential climate intervention underscores the urgency to better understand aerosols in the stratosphere. To tackle these challenges, my research integrates field and laboratory measurements, satellite remote sensing, and atmospheric modeling to investigate aerosol-chemistry-climate interactions from the surface to the stratosphere.
 
-My ongoing work leverages satellite observations and climate model simulations to:\
+My ongoing work leverages satellite observations and climate models to:\
 (1) Quantify the impacts of major wildfires and volcanic eruptions on global atmospheric temperatures, and \
 (2) Assess changes in global temperature trends, including potential evidence of "global warming acceleration".
 
@@ -19,7 +19,7 @@ My ongoing work leverages satellite observations and climate model simulations t
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
-**1. Observations and modeling of aerosols in the upper tropopshere and lower stratosphere (UTLS)**\
+**1. *In situ* characterization and sampling of aerosols in the upper tropopshere and lower stratosphere (UTLS)**\
 (In collaboration with DCOTSS and SABRE teams)
 
 <img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=500 height=400/>
@@ -28,7 +28,7 @@ During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.
 
 <br/>
 
-**2. Chemical imaging of UTLS aerosol samples**\
+**2. Offline chemical imaging of UTLS aerosol samples**\
 (In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen Cheng at EMSL)
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=300 height=300/>
@@ -46,7 +46,7 @@ While it is generally assumed that stratospheric aerosol is dominated by pure su
 
 <br/>
 
-**4. Bridging chemical and optical properties of organic aerosols**\
+**4. Optical properties of organic aerosols**\
 (In collaboration with Pengfei Liu Group at Georgia Tech)
 
 <img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
@@ -55,7 +55,7 @@ Accurate aerosol refractive index measurements are critical for modeling aerosol
 
 <br/>
 
-**5. Copter-type UAV-based sensing in atmospheric chemistry**\
+**5. Copter-Type UAV-Based Sensing in Atmospheric Chemistry**\
 (In collaboration with Jianhuai Ye Group at SUSTech)
 
 <img src="/images/UAV_review.png" alt="UAV_review" align="right" class="inline" width=400 height=400/>
@@ -64,7 +64,7 @@ I led a recent review article *[(Li et al., ES&T, 2025)](https://pubs.acs.org/do
 
 <br/>
 
-**6. Probing biosphere-atmosphere interactions with UAV-based sensing**\
+**6. Probing biosphere-atmosphere interactions with UAV measurements of VOCs**\
 (In collaboration with Qi Chen Group at PKU and Scot Martin Group at Harvard)
 
 <img src="/images/UAV_VOC.png" alt="UAV_VOC" align="right" class="inline" width=400 height=400/>
@@ -73,7 +73,7 @@ Volatile organic compounds (VOCs) are important air pollutants and play a critic
 
 <br/>
 
-**7.Mass spectrometry of atmospheric reactive organic carbon**\
+**7. Measurements of reactive organic carbon with Harvard PTR3 instruments**\
 (In collaboration with Jesse Kroll Group at MIT)
 
 <img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
