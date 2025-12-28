@@ -21,7 +21,7 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-**<ins>Under review, submitted, in preparation</ins>**
+**<ins>Under review & submitted</ins>**
 
 7\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
 
