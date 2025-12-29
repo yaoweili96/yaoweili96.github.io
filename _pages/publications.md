@@ -23,8 +23,6 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-7\. **Yaowei Li**, Benjamin D. Santer, Susan Solomon, David W. J. Thompson, Qiang Fu. "Detectable global temperature responses to wildfires and volcanic eruptions." [*under review*]
-
 6\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via TEMPO observations." [*under review*]
 
 5\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
@@ -40,6 +38,8 @@ author_profile: true
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
 ***<ins>First-author / Co-first-author publications</ins>***
+
+24\. **Yaowei Li**, Benjamin Santer, Susan Solomon, David Thompson, Qiang Fu. (2025) "Detectable global temperature responses to wildfires and volcanic eruptions." *Proceedings of the National Academy of Sciences*. [*accepted*]
 
 23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* [[link](https://www.science.org/doi/10.1126/sciadv.adw6526)]
 
