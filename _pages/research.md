@@ -19,17 +19,23 @@ My ongoing work leverages satellite observations and climate model simulations t
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
-**1. Observations and modeling of aerosols in the upper tropopshere and lower stratosphere (UTLS)**\
-(In collaboration with DCOTSS and SABRE teams)
+**1. Climate impacts of high-altitude wildfire smoke**\
 
-<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=500 height=400/>
+<img src="/images/pyroCb.png" alt="pyroCb" align="right" class="inline" width=400 height=400/>
 
-During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.gov/projects/sabre/) aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UTLS aerosol concentration and size distribution ([DPOPS instrument](https://airbornescience.nasa.gov/instrument/DPOPS)), and 2) collect UTLS aerosol samples for offline chemical composition and morphology analysis (high-altitude aircraft MOUDI system). My work yielded a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UTLS aerosols and perturbations from volcanic and wildfire injections. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone *[(Li et al., ACP, 2023)](https://acp.copernicus.org/articles/23/15351/2023/#section12)*. It also captured 5-day-old pyrocumulonimbus (pyroCb) smoke plumes in the UT, which exhibited an unusually large size mode (500-600 nm diameter) that substantially enhanced the radiative cooling effect of smoke aerosols *[(Li et al., preprint, 2024)](https://www.researchsquare.com/article/rs-5348977/v1)*. Data from DCOTSS mission are publically available at [NASA ASDC archive](https://asdc.larc.nasa.gov/project/DCOTSS/DCOTSS-Aircraft-Data_1). Feel free to [email me](mailto: yaoweili@seas.harvard.edu) if you have any questions on the aerosol data.
+Large wildfires can generate their own thunderstorms, known as pyrocumulonimbus (pyroCb) clouds, which inject massive quantities of smoke aerosols into the upper troposphere and lower stratosphere (UTLS), where they can persist for months and affect climate. The radiative effects of pyroCb aerosols, however, remain poorly understood because of limited direct measurements. We present the first in situ aircraft measurements of 5-day-old pyroCb smoke, addressing a critical observational gap in aerosol evolution from freshly emitted to weeks-to-months-aged states. The sampled smoke primarily contained unusually large aerosol particles (500-600 nanometers in diameter), formed through cloud processing and efficient coagulation in the UTLS. Compared to smaller particles in typical non-pyroCb smoke, these large particles increase outgoing radiation by 30-36%, substantially enhancing atmospheric radiative cooling. Climate models may greatly underestimate this cooling effect by assuming smaller aerosol sizes for pyroCb smoke. As pyroCb events become more frequent, accurately representing their aerosol properties is essential for improving climate projections. *[(Li et al., Science Advances, 2025)](https://www.science.org/doi/10.1126/sciadv.adw6526)*
 
 <br/>
 
-**2. Chemical imaging of UTLS aerosol samples**\
-(In collaboration with Alex Laskin Group at Puerdue University; Swarup China and Zezhen Cheng at EMSL)
+**2. Observations and modeling of aerosols in the UTLS**\
+
+<img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=500 height=400/>
+
+During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.gov/projects/sabre/) aircraft missions, I developed and deployed two aircraft instruments to: 1) measure UTLS aerosol concentration and size distribution ([DPOPS instrument](https://airbornescience.nasa.gov/instrument/DPOPS)), and 2) collect UTLS aerosol samples for offline chemical composition and morphology analysis (high-altitude aircraft MOUDI system). My work produced a valuable dataset of aerosol concentration, size distribution, composition, and morphology up to 22 km over North America. This dataset is essential for characterizing background UTLS aerosols and perturbations from volcanic eruptions, wildfire injections, and deep convective storms. For example, my instrument measured volcanic plumes from La Soufrière eruptions in April 2021 in the stratosphere, which I used for detailed analysis of their spatiotemporal evolutions and impacts on radiative forcing and ozone *[(Li et al., ACP, 2023)](https://acp.copernicus.org/articles/23/15351/2023/#section12)*. The dataset also suggests that the increasing frequency and intensity of wildfires combined with increasing deep convection as the climate warms may enhance the delivery of biomass burning aerosols to the lower stratosphere *[(Shen et al., Nature Geoscience, 2025)](https://www.nature.com/articles/s41561-025-01821-1)*. Data from DCOTSS mission are publically available at [NASA ASDC archive](https://asdc.larc.nasa.gov/project/DCOTSS/DCOTSS-Aircraft-Data_1). Feel free to [email me](mailto: yaoweili@seas.harvard.edu) if you have any questions on the aerosol data.
+
+<br/>
+
+**3. Chemical imaging of UTLS aerosol samples**\
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=300 height=300/>
 
@@ -37,8 +43,7 @@ UTLS aerosol samples for offline chemical imaging analysis were collected by a c
 
 <br/><br/><br/><br/>
 
-**3. Composition dependence of stratospheric aerosol radiative forcing**\
-(In collaboration with Terry Deshler at CU Boulder)
+**4. Composition dependence of stratospheric aerosol radiative forcing**\
 
 <img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=400 height=400/>
 
@@ -46,8 +51,7 @@ While it is generally assumed that stratospheric aerosol is dominated by pure su
 
 <br/>
 
-**4. Bridging chemical and optical properties of organic aerosols**\
-(In collaboration with Pengfei Liu Group at Georgia Tech)
+**5. Bridging chemical and optical properties of organic aerosols**\
 
 <img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
 
@@ -55,8 +59,7 @@ Accurate aerosol refractive index measurements are critical for modeling aerosol
 
 <br/>
 
-**5. Copter-type UAV-based sensing in atmospheric chemistry**\
-(In collaboration with Jianhuai Ye Group at SUSTech)
+**6. Copter-type UAV-based sensing in atmospheric chemistry**\
 
 <img src="/images/UAV_review.png" alt="UAV_review" align="right" class="inline" width=400 height=400/>
 
@@ -64,8 +67,7 @@ I led a recent review article *[(Li et al., ES&T, 2025)](https://pubs.acs.org/do
 
 <br/>
 
-**6. Probing biosphere-atmosphere interactions with UAV-based sensing**\
-(In collaboration with Qi Chen Group at PKU and Scot Martin Group at Harvard)
+**7. Probing biosphere-atmosphere interactions with UAV-based sensing**\
 
 <img src="/images/UAV_VOC.png" alt="UAV_VOC" align="right" class="inline" width=400 height=400/>
 
@@ -73,8 +75,7 @@ Volatile organic compounds (VOCs) are important air pollutants and play a critic
 
 <br/>
 
-**7. Mass spectrometry of atmospheric reactive organic carbon**\
-(In collaboration with Jesse Kroll Group at MIT)
+**8. Mass spectrometry of atmospheric reactive organic carbon**\
 
 <img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
 
