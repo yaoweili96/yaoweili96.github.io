@@ -83,7 +83,7 @@ author_profile: true
 
 7\. Victoria Barber, Lexy N. LeMar, **Yaowei Li**, Jonathan W. Zheng, Frank N. Keutsch, Jesse H. Kroll. (2024) "Enhanced organic nitrate formation from peroxy radicals in the condensed phase" *Environmental Science & Technology Letters*. [[link](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00473#)\]
 
-6\. Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor Air Quality Implications of Germicidal 222 nm Light." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)]
+6\. Victoria Barber, Matthew Goss, Lesly Franco Deloya, Lexy LeMar, **Yaowei Li**, Erik Helstrom, Manjula Canagaratna, Frank Keutsch, Jesse Kroll. (2023) "Indoor air quality implications of germicidal 222 nm light." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/full/10.1021/acs.est.3c05680)]
 
 5\. Yan Zheng, Ruqian Miao, Qi Zhang, **Yaowei Li**, Xi Cheng, Keren Liao, Theodore Koenig, Yanli Ge, Lizi Tang, Dongjie Shang, Min Hu, Shiyi Chen, Qi Chen. (2023) "Secondary formation of submicron and supermicron organic and inorganic aerosols in a highly polluted urban area." *Journal of Geophysical Research: Atmospheres*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037865)]
 
