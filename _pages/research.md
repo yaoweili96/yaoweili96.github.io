@@ -19,7 +19,7 @@ My ongoing work leverages satellite observations and climate model simulations t
 
 <!-- <img src="/images/conceptual_pic.png" alt="Conceptual Diagram" align="center" class="inline" width=700 height=423/> -->
 
-**1. Observations and modeling of aerosols in the upper troposphere and lower stratosphere (UTLS)**\
+**1. Observations and modeling of aerosols in the upper troposphere and lower stratosphere (UTLS)**
 
 <img src="/images/ER2_WB57.png" alt="ER2 and WB57" align="right" class="inline" width=500 height=400/>
 
@@ -27,7 +27,7 @@ During the [NASA DCOTSS](https://dcotss.org/) and [NOAA SABRE](https://csl.noaa.
 
 <br/>
 
-**2. Climate impacts of high-altitude wildfire smoke**\
+**2. Climate impacts of high-altitude wildfire smoke**
 
 <img src="/images/pyroCb.png" alt="pyroCb" align="right" class="inline" width=400 height=400/>
 
@@ -35,7 +35,7 @@ Large wildfires can generate their own thunderstorms, known as pyrocumulonimbus 
 
 <br/>
 
-**3. Chemical imaging of UTLS aerosol samples**\
+**3. Chemical imaging of UTLS aerosol samples**
 
 <img src="/images/STXM_image_DCOTSS.png" alt="STXM image from DCOTSS RF17" align="right" class="inline" width=300 height=300/>
 
@@ -43,7 +43,7 @@ UTLS aerosol samples for offline chemical imaging analysis were collected by a c
 
 <br/><br/><br/><br/>
 
-**4. Composition dependence of stratospheric aerosol radiative forcing**\
+**4. Composition dependence of stratospheric aerosol radiative forcing**
 
 <img src="/images/RF_dependence.png" alt="RF dependence.png" align="right" class="inline" width=400 height=400/>
 
@@ -51,7 +51,7 @@ While it is generally assumed that stratospheric aerosol is dominated by pure su
 
 <br/>
 
-**5. Bridging chemical and optical properties of organic aerosols**\
+**5. Bridging chemical and optical properties of organic aerosols**
 
 <img src="/images/RI_prediction.png" alt="RI prediction" align="right" class="inline" width=400 height=400/>
 
@@ -59,7 +59,7 @@ Accurate aerosol refractive index measurements are critical for modeling aerosol
 
 <br/>
 
-**6. Copter-type UAV-based sensing in atmospheric chemistry**\
+**6. Copter-type UAV-based sensing in atmospheric chemistry**
 
 <img src="/images/UAV_review.png" alt="UAV_review" align="right" class="inline" width=400 height=400/>
 
@@ -67,7 +67,7 @@ I led a recent review article *[(Li et al., ES&T, 2025)](https://pubs.acs.org/do
 
 <br/>
 
-**7. Probing biosphere-atmosphere interactions with UAV-based sensing**\
+**7. Probing biosphere-atmosphere interactions with UAV-based sensing**
 
 <img src="/images/UAV_VOC.png" alt="UAV_VOC" align="right" class="inline" width=400 height=400/>
 
@@ -75,7 +75,7 @@ Volatile organic compounds (VOCs) are important air pollutants and play a critic
 
 <br/>
 
-**8. Mass spectrometry of atmospheric reactive organic carbon**\
+**8. Mass spectrometry of atmospheric reactive organic carbon**
 
 <img src="/images/PTR3.png" alt="PTR3" align="right" class="inline" width=400 height=400/>
 
