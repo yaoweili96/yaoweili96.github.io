@@ -43,6 +43,8 @@ author_profile: true
 
 23\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* [[link](https://www.science.org/doi/10.1126/sciadv.adw6526)]
 
+&emsp;&emsp;Media: [Harvard News](https://seas.harvard.edu/news/2025/12/sky-high-smoke)
+
 22\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* [[link](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)]
 
 21\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)] &emsp;🌟 **[ACS Editors' Choice](https://pubs.acs.org/page/policy/editorchoice/index.html)**
