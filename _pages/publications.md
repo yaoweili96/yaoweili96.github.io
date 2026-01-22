@@ -23,8 +23,6 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-6\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via TEMPO observations." [*under review*]
-
 5\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." [*under review*]
 
 4\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Aurélien Podglajen. "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." [*under review*]
