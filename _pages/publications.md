@@ -55,9 +55,9 @@ x
 
 ***<ins>Co-author publications</ins>***
 
-18\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c16671)]
+18\. Bin Bai, Gregory W. Vandergrift, Yutong Liang, **Yaowei Li**, Zezhen Cheng, Yuchen Wang, Nara Shin, Frank N. Keustch, Andrew Lambe, Swarup China, Nga Lee Ng, Pengfei Liu. (2026) "Dynamic evolution of mass and physical properties of atmospheric organic aerosol under solar irradiance." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c16671)]
 
-17\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. "Revealing the formation and control of NYC downwind coastal high ozone via new TEMPO observations." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117523)]
+17\. Jie Zhang, **Yaowei Li**, John Sullivan, Tianyu Zhu, Alexandra Catena, Margaret J. Schwab, Yuhang Guo, Jingbo Mao, Amanda Teora, James Schwab. (2026) "Revealing the formation and control of NYC downwind coastal high ozone via new TEMPO observations." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117523)]
 
 16\. Qing Ye, Isabel S. Albores, Seamus Frey, Erik Helstrom, Jorden E. Krechmer, **Yaowei Li**, Joshua D. Shutter, Joshua L. Cox, Manjula Canagaratna, Frank N. Keutsch, Jesse H. Kroll. (2025) "Changes in volatile organic compound composition from an oxidation-based air cleaner." *ACS ES&T Air*. [[link](https://pubs.acs.org/doi/10.1021/acsestair.5c00294)]
 
