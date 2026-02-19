@@ -30,7 +30,7 @@ author_profile: true
 2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
 
 1\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Seasonal sources,  concentrations, and variations of aerosols and VOC in downtown Munich in 2023/24." [*under review*]
-x
+
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
 ***<ins>First-author / Co-first-author publications</ins>***
