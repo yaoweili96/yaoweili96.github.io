@@ -35,7 +35,9 @@ author_profile: true
 
 ***<ins>First-author / Co-first-author publications</ins>***
 
-26\. **Yaowei Li**, Benjamin Santer, Susan Solomon, David Thompson, Qiang Fu. (2026) "Detectable global temperature responses to wildfires and volcanic eruptions." *Proceedings of the National Academy of Sciences* [*in press*]
+26\. **Yaowei Li**, Benjamin Santer, Susan Solomon, David Thompson, Qiang Fu. (2026) "Detectable global temperature responses to wildfires and volcanic eruptions." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/full/10.1073/pnas.2525500123)]
+
+&emsp;&emsp;Media: [MIT News](https://news.mit.edu/2026/study-reveals-climatic-fingerprints-wildfires-and-volcanic-eruptions-0223)
 
 25\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* [[link](https://www.science.org/doi/10.1126/sciadv.adw6526)]
 
