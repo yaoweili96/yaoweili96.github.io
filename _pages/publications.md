@@ -23,7 +23,7 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*submitted*]
+4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
 
 3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Particle coating influences pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
 
