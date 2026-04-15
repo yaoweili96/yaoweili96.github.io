@@ -25,7 +25,7 @@ author_profile: true
 
 4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
 
-3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Particle coating influences pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
+3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Large particle size and thick coating influence pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
 
 2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
 
