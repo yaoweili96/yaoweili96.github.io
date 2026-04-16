@@ -23,13 +23,15 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
+5\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
 
-3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Large particle size and thick coating influence pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
+4\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Large particle size and thick coating influence pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
 
-2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
+3\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
 
-1\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Seasonal sources,  concentrations, and variations of aerosols and VOC in downtown Munich in 2023/24." [*under review*]
+2\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Seasonal sources,  concentrations, and variations of aerosols and VOC in downtown Munich in 2023/24." [*under review*]
+
+1\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Disentangling mechanistic controls on ultrafine particle number and growth across seasons in an urban street canyon" [*submitted*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
