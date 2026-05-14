@@ -23,11 +23,9 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
+3\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
 
-3\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. "Large particle size and thick coating influence pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." [*under review*]
-
-2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "Human influence on the ozone layer detectable by the 1960s." [*under review*]
+2\. Jian Guan, Benjamin D. Santer, Peidong Wang, Qiang Fu, Rolando R. Garcia, **Yaowei Li**, Kane Stone, Douglas Kinnison, Jun Zhang, Gabriel Chiodo, Jean-Francois Lamarque, Susan Solomon. "The emergence of human influence on the ozone layer by the 1960s" [*under review*]
 
 1\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Disentangling mechanistic controls on ultrafine particle number and growth across seasons in an urban street canyon." [*submitted*]
 
@@ -35,29 +33,31 @@ author_profile: true
 
 ***<ins>First-author / Co-first-author publications</ins>***
 
-28\. **Yaowei Li**, Benjamin Santer, Susan Solomon, David Thompson, Qiang Fu. (2026) "Detectable global temperature responses to wildfires and volcanic eruptions." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/full/10.1073/pnas.2525500123)]
+29\. **Yaowei Li**, Benjamin Santer, Susan Solomon, David Thompson, Qiang Fu. (2026) "Detectable global temperature responses to wildfires and volcanic eruptions." *Proceedings of the National Academy of Sciences* [[link](https://www.pnas.org/doi/full/10.1073/pnas.2525500123)]
 
 &emsp;&emsp;Media: [MIT News](https://news.mit.edu/2026/study-reveals-climatic-fingerprints-wildfires-and-volcanic-eruptions-0223), [PNAS In This Issue](https://www.pnas.org/doi/10.1073/iti1026123)
 
-27\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* [[link](https://www.science.org/doi/10.1126/sciadv.adw6526)]
+28\. **Yaowei Li**, John Dykema, David Peterson, Xu Feng, Xiaoli Shen, Nicole June, Michael Fromm, Theodore McHardy, Justin Jacquot, Jasna Pittman, Bruce Daube, Steven Wofsy, Jonathan Dean-Day, Anita Rapp, Kenneth Bowman, Daniel Cziczo, Loretta Mickley, Jeffrey Pierce, Frank Keutsch. (2025) "Enhanced radiative cooling by large aerosol particles from wildfire-driven thunderstorms." *Science Advances* [[link](https://www.science.org/doi/10.1126/sciadv.adw6526)]
 
 &emsp;&emsp;Media: [Harvard News](https://seas.harvard.edu/news/2025/12/sky-high-smoke)
 
-26\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* [[link](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)]
+27\. Steven Sharpe, **Yaowei Li**, Sophia Benjemia, Felipe Rivera-Adorno, Temitope Olayemi, Julius Ese, Xiaoli Shen, Matthew Fraund, Ryan Moffet, Nurun Nahar Lata, Zezhen Cheng, Swarup China, Cameron Homeyer, John Dykema, Matthew A. Marcus, Jian Wang, Daniel Cziczo, Frank Keutsch, and Alexander Laskin. (2025) "Chemical imaging of individual stratospheric particles sampled over North America." *Environmental Science: Atmospheres* [[link](https://pubs.rsc.org/en/content/articlelanding/2025/ea/d5ea00127g)]
 
-25\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)] &emsp;🌟 **[ACS Editors' Choice](https://pubs.acs.org/page/policy/editorchoice/index.html)**
+26\. **Yaowei Li**, Chen Zhang, Weifeng Su, Shaojie Jiang, Dongyang Nie, Yaying Wang, Yuzheng Wang, Hongdi He, Qi Chen, Scot T. Martin, Jianhuai Ye. (2025) "Copter-type UAV-based sensing in atmospheric chemistry: recent advances, applications, and future perspectives." *Environmental Science & Technology*. [[link](https://pubs.acs.org/doi/10.1021/acs.est.5c00074)] &emsp;🌟 **[ACS Editors' Choice](https://pubs.acs.org/page/policy/editorchoice/index.html)**
 
-24\. **Yaowei Li**, Corey Pedersen, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Atmospheric Chemistry and Physics*. [[link](https://acp.copernicus.org/articles/23/15351/2023/)]
+25\. **Yaowei Li**, Corey Pedersen, John Dykema, Jean-Paul Vernier, Sandro Vattioni, Amit Kumar Pandit, Andrea Stenke, Elizabeth Asher, Troy Thornberry, Michael Todt, ThaoPaul Bui, Jonathan Dean-Day, Frank Keutsch. (2023) "In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption." *Atmospheric Chemistry and Physics*. [[link](https://acp.copernicus.org/articles/23/15351/2023/)]
 
-23\. **Yaowei Li**, Bin Bai, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinori Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023) "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)] &emsp;🌟 **[Top 10% of the GRL’s most-viewed papers in 2023](https://cloud.email2.wiley.com/Top_Viewed_Article?ContactID=0037807887934GBQOX&j=388703&sfmc_sub=67369527&l=24_HTML&u=11881187&mid=500009194&jb=463&utm_source=sfmc&utm_medium=email&utm_campaign=807786_AT_Top_Viewed_Authors_Mar25)**
+24\. **Yaowei Li**, Bin Bai, John Dykema, Nara Shin, Andrew Lambe, Qi Chen, Mikinori Kuwata, Nga Lee Ng, Frank Keutsch, Pengfei Liu. (2023) "Predicting real refractive index of organic aerosols from elemental composition." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103446)] &emsp;🌟 **[Top 10% of the GRL’s most-viewed papers in 2023](https://cloud.email2.wiley.com/Top_Viewed_Article?ContactID=0037807887934GBQOX&j=388703&sfmc_sub=67369527&l=24_HTML&u=11881187&mid=500009194&jb=463&utm_source=sfmc&utm_medium=email&utm_campaign=807786_AT_Top_Viewed_Authors_Mar25)**
 
-22\. **Yaowei Li**, John Dykema, Terry Deshler, and Frank Keutsch. (2021) "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427)]
+23\. **Yaowei Li**, John Dykema, Terry Deshler, and Frank Keutsch. (2021) "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427)]
 
-21\. **Yaowei Li**, Ben Liu, Jianhuai Ye, Tianjiao Jia, Reza Bashiri Khuzestani, Jia Yin Sun, Xi Cheng, Yan Zheng, Xin Li, Cheng Wu, Jinyuan Xin, Zhihong Wu, Matheus Akira Tomoto, Karena McKinney, Scot Martin, Yong Jie Li, and Qi Chen. (2021) "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity." *ACS Earth and Space Chemistry*. [[link](https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271)]
+22\. **Yaowei Li**, Ben Liu, Jianhuai Ye, Tianjiao Jia, Reza Bashiri Khuzestani, Jia Yin Sun, Xi Cheng, Yan Zheng, Xin Li, Cheng Wu, Jinyuan Xin, Zhihong Wu, Matheus Akira Tomoto, Karena McKinney, Scot Martin, Yong Jie Li, and Qi Chen. (2021) "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity." *ACS Earth and Space Chemistry*. [[link](https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271)]
 
 ***<ins>Co-author publications</ins>***
 
-20\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. "Sources, concentrations, and seasonal variations of VOC and aerosol particles in downtown Munich in 2023/2024." *Atmospheric Chemistry and Physics*. [[link](https://acp.copernicus.org/articles/26/5813/2026/)]
+21\. Xi Chen, Jun Wang, David A. Peterson, **Yaowei Li**, William Julstrom, Frank Keutsch, John Dykema. (2026) "Large particle size and thick coating influence pyrocumulonimbus smoke radiative forcing and stratospheric warming: Insights from 2019-2020 Australian megafires." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119099)]
+
+20\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, and Harald Saathoff. (2026) "Sources, concentrations, and seasonal variations of VOC and aerosol particles in downtown Munich in 2023/2024." *Atmospheric Chemistry and Physics*. [[link](https://acp.copernicus.org/articles/26/5813/2026/)]
 
 19\. Rachel Atlas, Rei Ueyama, Soo-Hyun Kim, Paul Bui, Jonathan Dean-Day, **Yaowei Li**, John Dykema, Frank Keutsch, Bernadett Weinzierl, Maximilian Dollner, Aurélien Podglajen. (2026) "Upper-level turbulence in the North American and Asian summer monsoon regions sampled in recent aircraft campaigns." *Geophysical Research Letters*. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118648)]
 
