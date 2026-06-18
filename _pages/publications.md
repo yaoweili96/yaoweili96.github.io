@@ -29,7 +29,7 @@ author_profile: true
 
 2\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, Harald Saathoff. "Disentangling mechanistic controls on ultrafine particle number and growth across seasons in an urban street canyon." [*under review*]
 
-1\. Jean-paul Vernier, Nicolas Dumelie, Amit Kumar Pandit, Gwenael Berthet, Lilian Joly, Giovanni Souza, Eduardo Landulfo, Demilson Quintao, Bruno Biazon, Ravi Kiran, Vankat Ratnam, James Flaten, Rubel Das, David Paraiseau, Frank Wienhold, **Yaowei Li**. "A new Profiling Optical Particle Counter to study stratospheric aerosols." [*submitted*]
+1\. Jean-Paul Vernier, Nicolas Dumelie, Amit Kumar Pandit, Gwenael Berthet, Lilian Joly, Giovanni Souza, Eduardo Landulfo, Demilson Quintao, Bruno Biazon, Ravi Kiran, Vankat Ratnam, James Flaten, Rubel Das, David Paraiseau, Frank Wienhold, **Yaowei Li**. "A new Profiling Optical Particle Counter to study stratospheric aerosols." [*submitted*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
 
