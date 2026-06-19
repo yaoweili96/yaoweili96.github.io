@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="padding: 12px 18px; border-left: 4px solid #0055A4; background-color: #f5f8fc; margin-bottom: 20px; border-radius: 4px;">
-<strong>News (June 2026):</strong> I will be joining the [Department of Physics](https://www.physics.utoronto.ca/members/department_groups/eapp/) at the University of Toronto as an Assistant Professor in January 2027!
+<strong>News (June 2026):</strong> I will be joining the <a href="https://www.physics.utoronto.ca/members/department_groups/eapp/">Department of Physics </a> at the University of Toronto as an Assistant Professor in January 2027!
 </div>
 
 Hello! My name is Yaowei Li (李垚纬). I am currently a [NOAA Climate & Global Change Postdoctoral Fellow](https://cpaess.ucar.edu/cgc/class-34), co-hosted by [Prof. Susan Solomon](https://www.ssolomongroup.mit.edu/susansolomon) at MIT and [Prof. Paul Wennberg](https://web.gps.caltech.edu/~wennberg/) at Caltech. I am also a [Caltech Foster and Coco Stanback Postdoctoral Scholar](https://www.gps.caltech.edu/about/positions-available/gps-prize-postdoc-information).
