@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yaowei Li (李垚纬)"
 title_separator          : "-"
 name                     : &name "Yaowei Li"
-description              : &description "NOAA Climate & Global Change Postdoctoral Fellow at MIT and Caltech"
+description              : &description "Foster and Coco Stanback Postdoctoral Scholar at Caltech"
 url                      : https://yaoweili96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaoweili96/yaoweili96.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en"
-  email            : "yaoweili@mit.edu"
+  email            : "yaoweili@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
