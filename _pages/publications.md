@@ -31,7 +31,7 @@ author_profile: true
 
 1\. Jean-Paul Vernier, Nicolas Dumelie, Amit Kumar Pandit, Gwenael Berthet, Lilian Joly, Giovanni Souza, Eduardo Landulfo, Demilson Quintao, Bruno Biazon, Ravi Kiran, Vankat Ratnam, James Flaten, Rubel Das, David Paraiseau, Frank Wienhold, **Yaowei Li**. "A new Profiling Optical Particle Counter to study stratospheric aerosols." [*under review*]
 
-**<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=UWMvMhUAAAAJ&hl=en))**
+**<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=52nlVjMAAAAJ&hl=en))**
 
 ***<ins>First-author / Co-first-author publications</ins>***
 
