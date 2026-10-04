@@ -23,13 +23,17 @@ author_profile: true
 
 **<ins>Under review & submitted</ins>**
 
-4\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
+6\. Lexy Lemar, Jonathan Zheng, **Yaowei Li**, Victoria Barber, Frank Keutsch, William Green, Jesse Kroll. "Reactivity of peroxy and alkoxy radicals in the aqueous phase: role of radical structure." [*under review*]
 
-3\. Laila Howar and 26 others, including **Yaowei Li**. "Quantification of the effect of kinetic uncertainties on photochemical loss of ozone in the midlatitude stratosphere" [*under review*]
+5\. Laila Howar and 26 others, including **Yaowei Li**. "Quantification of the effect of kinetic uncertainties on photochemical loss of ozone in the midlatitude stratosphere" [*under review*]
 
-2\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, Harald Saathoff. "Disentangling mechanistic controls on ultrafine particle number and growth across seasons in an urban street canyon." [*under review*]
+4\. Yanxia Li, Hengheng Zhang, Xuefeng Shi, **Yaowei Li**, Sophie Abou-Rizk, Jessica Smith, Zhaojin An, Adrian Wenzel, Junwei Song, Thomas Leisner, Frank Keutsch, Jia Chen, Harald Saathoff. "Disentangling mechanistic controls on ultrafine particle number and growth across seasons in an urban street canyon." [*under review*]
 
-1\. Jean-Paul Vernier, Nicolas Dumelie, Amit Kumar Pandit, Gwenael Berthet, Lilian Joly, Giovanni Souza, Eduardo Landulfo, Demilson Quintao, Bruno Biazon, Ravi Kiran, Vankat Ratnam, James Flaten, Rubel Das, David Paraiseau, Frank Wienhold, **Yaowei Li**. "A new Profiling Optical Particle Counter to study stratospheric aerosols." [*under review*]
+3\. Jean-Paul Vernier, Nicolas Dumelie, Amit Kumar Pandit, Gwenael Berthet, Lilian Joly, Giovanni Souza, Eduardo Landulfo, Demilson Quintao, Bruno Biazon, Ravi Kiran, Vankat Ratnam, James Flaten, Rubel Das, David Paraiseau, Frank Wienhold, **Yaowei Li**. "A new Profiling Optical Particle Counter to study stratospheric aerosols." [*under review*]
+
+2\. Jiani Yang, Tao Li, Haolin Wang, Mohammad Saleh Ali-Taleshi, Lin Tan, King-Fai Li, **Yaowei Li**, Zhu Liu, Meng Gao, Philippe Ciais. "Natural aerosol variability can reverse the apparent air-quality response to abrupt emission reductions." [*under review*]
+
+1\. Jiali Shen, **Yaowei Li**, Jiangyi Zhang, Zhaojin An, Putian Zhou, Henning Finkenzeller, Paxton Juuti, Jyri Mikkila, Netta Vinkvist, Siddharth Iyer, Juha Kangasluoma, Tuukka Petäjä, Matti Rissanen, Aleksei Shcherbinin, Frank N. Keutsch, and Xu-Cheng He. "A Br-MION2-Orbitrap and flow-reactor modelling framework for interpreting and quantifying organic photochemical oxidation." [*submitted*]
 
 **<ins>Peer-reviewed</ins> (citations tracked by [Google Scholar](https://scholar.google.com/citations?user=52nlVjMAAAAJ&hl=en))**
 
