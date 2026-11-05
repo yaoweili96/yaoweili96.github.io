@@ -115,6 +115,10 @@ author_profile: true
 
 1\. Ben Liu, Cheng Wu, Nan Ma, Qi Chen, **Yaowei Li**, Jianhuai Ye, Scot Martin, Yong Jie Li. (2020) "Vertical profiling of fine particulate matter and black carbon by using unmanned aerial vehicle in Macau, China." *Science of the Total Environment*. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0048969719361054)]
 
+**<ins>Other publications</ins>**
+
+1\. Ralph A. Kahn and 35 others, including **Yaowei Li**. (2026) "Reducing aerosol-related climate-forcing uncertainty and the overall uncertainty in climate prediction." White paper submitted in response to the Request for Information for *the 2028–2037 Decadal Survey for Earth Science and Applications (ESAS 2028)*. [*Submitted*]
+
 <br/>
 
 
