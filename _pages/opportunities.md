@@ -21,7 +21,7 @@ Students with strong academic preparation and relevant research experience in ph
 
 **📅 Application deadline: December 11, 2026**
 
-Admission requirements and application information: https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/.
+[Admission requirements and application information](https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/).
 
 Applications are reviewed by the Department of Physics graduate admissions committee.
 
