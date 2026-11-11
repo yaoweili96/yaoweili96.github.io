@@ -9,9 +9,6 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "Opportunities"
-    url: /opportunities/
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -23,6 +20,9 @@ main:
     
   - title: "CV"
     url: http://yaoweili96.github.io/files/CV_Yaowei_Li.pdf
+
+  - title: "Opportunities"
+    url: /opportunities/
     
   # - title: "Guide"
   #   url: /markdown/
