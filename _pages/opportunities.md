@@ -28,7 +28,7 @@ Applications are reviewed by the Department of Physics graduate admissions commi
 ## Recruitment poster
 
 <a href="{{ '/images/PhD_Opportunities_Fall_2027_Updated.png' | relative_url }}">
-  <img src="{{ '/images/PhD_Opportunities_Fall_2027_Updated.png' | relative_url }}" alt="PhD opportunities in Atmospheric Science at the University of Toronto, Fall 2027. Research on aerosols, air pollution, and climate through instrument development, observations, and modeling. Contact ywei.li@utoronto.ca. Application deadline: December 11, 2026." style="display: block; max-height: 75vh; max-width: 100%; width: auto; height: auto; margin: 0 auto;" />
+  <img src="{{ '/images/PhD_Opportunities_Fall_2027_Updated.png' | relative_url }}" alt="PhD opportunities in Atmospheric Science at the University of Toronto, Fall 2027. Research on aerosols, air pollution, and climate through instrument development, observations, and modeling. Contact ywei.li@utoronto.ca. Application deadline: December 11, 2026." style="display: block; max-height: 100vh; max-width: 100%; width: auto; height: auto; margin: 0 auto;" />
 </a>
 
 [View or download the full-size poster]({{ '/images/PhD_Opportunities_Fall_2027_Updated.png' | relative_url }}).
